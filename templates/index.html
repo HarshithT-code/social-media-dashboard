@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>SentimentScope — Social Media Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="/static/css/style.css" />
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.3/dist/chart.umd.min.js"></script>
+</head>
+<body>
+
+  <!-- ══ HEADER ══ -->
+  <header class="header">
+    <div class="header-inner">
+      <a class="brand" href="/">
+        <div class="brand-icon">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="#fff" stroke-width="2.2">
+            <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+          </svg>
+        </div>
+        <span class="brand-name">Sentiment<span>Scope</span></span>
+      </a>
+
+      <nav class="nav-tabs">
+        <button class="nav-tab active" data-tab="dashboard">
+          Dashboard
+        </button>
+        <button class="nav-tab" data-tab="analyze">
+          Analyze Text
+        </button>
+        <button class="nav-tab" data-tab="upload">
+          Upload CSV
+        </button>
+      </nav>
+
+      <button class="theme-toggle" id="theme-toggle" title="Toggle light / dark mode">🌙</button>
+    </div>
+  </header>
+
+  <!-- ══ MAIN ══ -->
+  <main class="main">
+
+    <!-- ════════════════════════════════════
+         TAB: DASHBOARD
+    ════════════════════════════════════ -->
+    <section id="tab-dashboard" class="tab-section active">
+
+      <div class="page-header">
+        <h1 class="page-title">Sentiment Dashboard</h1>
+        <p class="page-subtitle">Real-time sentiment analysis across all social media posts</p>
+      </div>
+
+      <!-- Filters -->
+      <div class="filters">
+        <div class="filter-group">
+          <label>Platform</label>
+          <select id="filter-platform">
+            <option value="">All Platforms</option>
+            <option value="Twitter">Twitter / X</option>
+            <option value="Reddit">Reddit</option>
+            <option value="Instagram">Instagram</option>
+            <option value="Facebook">Facebook</option>
+            <option value="YouTube">YouTube</option>
+          </select>
+        </div>
+        <div class="filter-group">
+          <label>Keyword Search</label>
+          <input type="text" id="filter-keyword" placeholder="e.g. coffee, game, update…" />
+        </div>
+        <button id="btn-filter" class="btn btn-primary">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+          Apply Filters
+        </button>
+        <button id="btn-reset" class="btn btn-ghost">Reset</button>
+      </div>
+
+      <!-- KPI Cards -->
+      <div class="kpi-grid">
+        <div class="kpi-card kpi-total">
+          <span class="kpi-label">Total Posts</span>
+          <span class="kpi-value" id="kpi-total">—</span>
+        </div>
+        <div class="kpi-card kpi-pos">
+          <span class="kpi-label">Positive</span>
+          <span class="kpi-value" id="kpi-positive">—</span>
+          <span class="kpi-pct" id="kpi-positive-pct"></span>
+        </div>
+        <div class="kpi-card kpi-neu">
+          <span class="kpi-label">Neutral</span>
+          <span class="kpi-value" id="kpi-neutral">—</span>
+          <span class="kpi-pct" id="kpi-neutral-pct"></span>
+        </div>
+        <div class="kpi-card kpi-neg">
+          <span class="kpi-label">Negative</span>
+          <span class="kpi-value" id="kpi-negative">—</span>
+          <span class="kpi-pct" id="kpi-negative-pct"></span>
+        </div>
+        <div class="kpi-card kpi-score">
+          <span class="kpi-label">Avg Sentiment Score</span>
+          <span class="kpi-value" id="kpi-avg-score">—</span>
+        </div>
+      </div>
+
+      <!-- Charts -->
+      <div class="charts-grid">
+        <div class="card chart-card">
+          <h3 class="card-title">Sentiment Distribution</h3>
+          <div class="chart-wrap"><canvas id="chart-pie"></canvas></div>
+        </div>
+        <div class="card chart-card">
+          <h3 class="card-title">Sentiment Over Time</h3>
+          <div class="chart-wrap"><canvas id="chart-line"></canvas></div>
+        </div>
+        <div class="card chart-card">
+          <h3 class="card-title">Posts by Platform</h3>
+          <div class="chart-wrap"><canvas id="chart-platform"></canvas></div>
+        </div>
+        <div class="card chart-card">
+          <h3 class="card-title">Top Posts by Likes</h3>
+          <div class="chart-wrap"><canvas id="chart-top"></canvas></div>
+        </div>
+      </div>
+
+      <!-- Posts Table -->
+      <div class="card">
+        <h3 class="card-title">All Posts</h3>
+        <div class="table-wrap">
+          <table id="posts-table">
+            <thead>
+              <tr>
+                <th style="width:40px">#</th>
+                <th style="width:120px">Platform</th>
+                <th style="min-width:120px">User</th>
+                <th>Post</th>
+                <th style="width:110px">Sentiment</th>
+                <th style="width:75px">Score</th>
+                <th style="width:75px">Likes</th>
+              </tr>
+            </thead>
+            <tbody id="posts-tbody">
+              <tr><td colspan="7" class="loading-cell">Loading posts…</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- ════════════════════════════════════
+         TAB: ANALYZE TEXT
+    ════════════════════════════════════ -->
+    <section id="tab-analyze" class="tab-section">
+      <div class="card analyze-card">
+
+        <div class="page-header">
+          <h2>Analyze Any Text</h2>
+          <p class="subtitle">Paste a social media post, comment, or any sentence to get an instant sentiment breakdown.</p>
+        </div>
+
+        <textarea id="analyze-input" rows="5" placeholder="Type or paste text here… e.g. 'This product is absolutely amazing!'"></textarea>
+        <button id="btn-analyze" class="btn btn-primary">
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polygon points="13 2 3 14 12 14 11 22 21 10 12 10 13 2"/></svg>
+          Analyze Sentiment
+        </button>
+
+        <div id="analyze-result" class="analyze-result hidden">
+          <div class="result-badge" id="result-badge"></div>
+
+          <div class="result-scores">
+            <div class="score-bar-wrap">
+              <span>Positive</span>
+              <div class="score-bar"><div class="score-fill pos-fill" id="bar-pos"></div></div>
+              <span class="score-val" id="val-pos">0%</span>
+            </div>
+            <div class="score-bar-wrap">
+              <span>Neutral</span>
+              <div class="score-bar"><div class="score-fill neu-fill" id="bar-neu"></div></div>
+              <span class="score-val" id="val-neu">0%</span>
+            </div>
+            <div class="score-bar-wrap">
+              <span>Negative</span>
+              <div class="score-bar"><div class="score-fill neg-fill" id="bar-neg"></div></div>
+              <span class="score-val" id="val-neg">0%</span>
+            </div>
+          </div>
+
+          <p class="compound-score">Compound Score: <strong id="compound-val"></strong></p>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ════════════════════════════════════
+         TAB: UPLOAD CSV
+    ════════════════════════════════════ -->
+    <section id="tab-upload" class="tab-section">
+      <div class="card upload-card">
+
+        <div class="page-header">
+          <h2>Upload Your CSV</h2>
+          <p class="subtitle">Upload a CSV file with a <code>text</code> column to analyze your own dataset instantly.</p>
+        </div>
+
+        <div class="drop-zone" id="drop-zone">
+          <svg width="44" height="44" viewBox="0 0 24 24" fill="none" stroke="#6b7fa3" stroke-width="1.5">
+            <path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/>
+            <polyline points="17 8 12 3 7 8"/>
+            <line x1="12" y1="3" x2="12" y2="15"/>
+          </svg>
+          <p>Drag &amp; drop a <code>.csv</code> file here, or</p>
+          <label class="btn btn-primary file-label">
+            Browse File
+            <input type="file" id="csv-file-input" accept=".csv" hidden />
+          </label>
+          <p class="hint" id="file-name-display">No file selected</p>
+        </div>
+
+        <button id="btn-upload" class="btn btn-primary" disabled>
+          <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><polyline points="17 8 12 3 7 8"/><line x1="12" y1="3" x2="12" y2="15"/><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"/></svg>
+          Upload &amp; Analyze
+        </button>
+
+        <div id="upload-result" class="hidden" style="margin-top:2rem">
+          <div class="kpi-grid" id="upload-kpis"></div>
+          <div class="card" style="margin-top:1rem">
+            <h3 class="card-title">Uploaded Posts</h3>
+            <div class="table-wrap">
+              <table>
+                <thead>
+                  <tr>
+                    <th style="width:40px">#</th>
+                    <th>Text</th>
+                    <th style="width:110px">Sentiment</th>
+                    <th style="width:75px">Score</th>
+                  </tr>
+                </thead>
+                <tbody id="upload-tbody"></tbody>
+              </table>
+            </div>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+  </main>
+
+  <footer class="footer">
+    <p>Built with <span>SentimentScope</span> — Powered by VADER NLP &amp; Flask</p>
+  </footer>
+
+  <script src="/static/js/dashboard.js"></script>
+</body>
+</html>

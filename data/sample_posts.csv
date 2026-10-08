@@ -1,0 +1,1001 @@
+id,platform,username,text,timestamp,likes,shares
+1,Twitter,@travel_neha,The meeting ran a bit long but we covered everything on the agenda at least.,2024-01-01 10:30:00,7573,1083
+2,Twitter,@news_priya,Received my package completely destroyed. The packaging was absolutely appalling.,2024-01-01 13:00:00,6498,1259
+3,Twitter,@sara_codes,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-01-01 15:30:00,4904,81
+4,Twitter,@news_priya,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-01-01 18:00:00,3859,1062
+5,Twitter,@political_eye,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-01-01 20:30:00,5494,214
+6,Twitter,@political_eye,Huge shoutout to the delivery person for being so incredibly helpful and kind. You made my day!,2024-01-01 23:00:00,2072,331
+7,Twitter,@daily_john,Cannot believe how badly that streaming platform has gone downhill. Used to love them but not anymore.,2024-01-02 01:30:00,1672,273
+8,Twitter,@gamer_pro,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-01-02 04:00:00,117,35
+9,Twitter,@fitness_guru,The meeting ran a bit long but we covered everything on the agenda at least.,2024-01-02 06:30:00,6843,1976
+10,Twitter,@fitness_guru,This noodle soup recipe turned out absolutely perfect. The whole family loved it!,2024-01-02 09:00:00,2789,806
+11,Twitter,@gamer_pro,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-01-02 11:30:00,3972,706
+12,Twitter,@daily_john,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-01-02 14:00:00,2611,762
+13,Twitter,@foodlover_tia,Read the book everyone recommended. It was fine. Decent writing but the story was predictable.,2024-01-02 16:30:00,4313,935
+14,Twitter,@political_eye,Just finished watching the anime everyone recommended. It was okay I guess. Nothing special but not terrible either.,2024-01-02 19:00:00,6987,2185
+15,Twitter,@foodlover_tia,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-01-02 21:30:00,6233,411
+16,Twitter,@fitness_guru,Terrible weather ruined our entire outdoor event after months of careful planning.,2024-01-03 00:00:00,1197,125
+17,Twitter,@art_lover_m,Got accepted into my dream university! All those late nights studying were worth it!,2024-01-03 02:30:00,1177,118
+18,Twitter,@music_fan99,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-01-03 05:00:00,4818,612
+19,Twitter,@art_lover_m,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-01-03 07:30:00,2945,588
+20,Twitter,@travel_neha,The restaurant was fine. Service was average and food was neither great nor bad.,2024-01-03 10:00:00,4978,1642
+21,Twitter,@art_lover_m,Ordered food an hour ago and it still has not arrived. Completely cold when it finally came.,2024-01-03 12:30:00,2993,749
+22,Twitter,@news_priya,Finally visited the local coffee shop and it exceeded every single expectation I had. Stunning!,2024-01-03 15:00:00,2110,493
+23,Twitter,@movie_buff_k,The restaurant was fine. Service was average and food was neither great nor bad.,2024-01-03 17:30:00,119,16
+24,Twitter,@comedy_central,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-01-03 20:00:00,210,71
+25,Twitter,@startup_vik,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-01-03 22:30:00,4040,237
+26,Twitter,@foodlover_tia,Read through the new policy update. Some changes seem okay others not so much.,2024-01-04 01:00:00,6834,2004
+27,Twitter,@foodlover_tia,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-01-04 03:30:00,5622,752
+28,Twitter,@crypto_watch,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-01-04 06:00:00,7960,87
+29,Twitter,@political_eye,This this budget laptop is complete garbage. Stopped working after just two days. Total waste of money!,2024-01-04 08:30:00,6348,604
+30,Twitter,@sports_raj,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-01-04 11:00:00,126,22
+31,Twitter,@comedy_central,Failed my exam after weeks of preparation. Feeling completely devastated and hopeless right now.,2024-01-04 13:30:00,3677,741
+32,Twitter,@comedy_central,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-01-04 16:00:00,6946,1645
+33,Twitter,@health_mike,The meeting ran a bit long but we covered everything on the agenda at least.,2024-01-04 18:30:00,5119,1296
+34,Twitter,@gamer_pro,Received my package completely destroyed. The packaging was absolutely appalling.,2024-01-04 21:00:00,5910,1772
+35,Twitter,@political_eye,Just finished the biography and it is genuinely one of the best things I have ever read,2024-01-04 23:30:00,3501,640
+36,Twitter,@music_fan99,New software update installed. Interface looks different. Will take some getting used to.,2024-01-05 02:00:00,6655,532
+37,Twitter,@music_fan99,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-01-05 04:30:00,853,259
+38,Twitter,@art_lover_m,Just finished that thriller and it is genuinely one of the best things I have ever read,2024-01-05 07:00:00,1857,439
+39,Twitter,@news_priya,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-01-05 09:30:00,7130,586
+40,Twitter,@eco_watch,Adopted a puppy today and my heart has never been this full of joy and love,2024-01-05 12:00:00,2797,161
+41,Twitter,@eco_watch,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-01-05 14:30:00,5427,868
+42,Twitter,@startup_vik,My landlord is refusing to fix the heating in winter. This is completely unacceptable behavior.,2024-01-05 17:00:00,5560,1389
+43,Twitter,@startup_vik,Adopted a puppy today and my heart has never been this full of joy and love,2024-01-05 19:30:00,7749,865
+44,Twitter,@movie_buff_k,New the new smartwatch arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-01-05 22:00:00,4367,1441
+45,Twitter,@art_lover_m,Failed my exam after weeks of preparation. Feeling completely devastated and hopeless right now.,2024-01-06 00:30:00,3521,1174
+46,Twitter,@sara_codes,My team won the championship today! Years of training finally paid off. So proud!,2024-01-06 03:00:00,3582,216
+47,Twitter,@sara_codes,This new this coffee maker update is exactly what we needed. Such a massive improvement!,2024-01-06 05:30:00,4186,1296
+48,Twitter,@news_priya,Read through the new policy update. Some changes seem okay others not so much.,2024-01-06 08:00:00,4939,313
+49,Twitter,@eco_watch,So proud of getting a perfect score! Hard work really does pay off in the end,2024-01-06 10:30:00,564,120
+50,Twitter,@daily_john,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-01-06 13:00:00,471,94
+51,Twitter,@political_eye,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-01-06 15:30:00,4961,974
+52,Twitter,@eco_watch,Got accepted into my dream university! All those late nights studying were worth it!,2024-01-06 18:00:00,3604,1073
+53,Twitter,@sara_codes,Got accepted into my dream university! All those late nights studying were worth it!,2024-01-06 20:30:00,2705,96
+54,Twitter,@movie_buff_k,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-01-06 23:00:00,1061,304
+55,Twitter,@music_fan99,The weather today is pretty average. Not great not terrible. Just a regular day.,2024-01-07 01:30:00,2535,184
+56,Twitter,@bookworm_z,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-01-07 04:00:00,6320,154
+57,Twitter,@fitness_guru,Internet has been down for 6 hours and customer support keeps putting me on hold. Unacceptable!,2024-01-07 06:30:00,2989,692
+58,Twitter,@music_fan99,This new the new smartwatch update is exactly what we needed. Such a massive improvement!,2024-01-07 09:00:00,5561,1168
+59,Twitter,@comedy_central,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-01-07 11:30:00,7165,1520
+60,Twitter,@sara_codes,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-01-07 14:00:00,7758,909
+61,Twitter,@sara_codes,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-01-07 16:30:00,3076,459
+62,Twitter,@comedy_central,Just finished watching the new web show. It was okay I guess. Nothing special but not terrible either.,2024-01-07 19:00:00,3679,10
+63,Twitter,@travel_neha,So proud of completing my certification! Hard work really does pay off in the end,2024-01-07 21:30:00,2472,124
+64,Twitter,@startup_vik,Cannot believe how amazing this coffee maker is. Best purchase I have made this year hands down!,2024-01-08 00:00:00,3521,3
+65,Twitter,@movie_buff_k,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-01-08 02:30:00,7159,1925
+66,Twitter,@art_lover_m,Cannot believe how amazing these wireless earbuds is. Best purchase I have made this year hands down!,2024-01-08 05:00:00,6027,1549
+67,Twitter,@sara_codes,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-01-08 07:30:00,5870,1589
+68,Twitter,@gamer_pro,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-01-08 10:00:00,3883,518
+69,Twitter,@movie_buff_k,Cannot believe how amazing the new smartwatch is. Best purchase I have made this year hands down!,2024-01-08 12:30:00,6094,900
+70,Twitter,@sara_codes,My team won the championship today! Years of training finally paid off. So proud!,2024-01-08 15:00:00,3532,369
+71,Twitter,@news_priya,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-01-08 17:30:00,5655,909
+72,Twitter,@bookworm_z,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-01-08 20:00:00,6567,655
+73,Twitter,@art_lover_m,Just had the most incredible experience at the mountain trail! Absolutely loved every moment of it,2024-01-08 22:30:00,270,77
+74,Twitter,@political_eye,New these wireless earbuds arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-01-09 01:00:00,5326,570
+75,Twitter,@eco_watch,Failed my exam after weeks of preparation. Feeling completely devastated and hopeless right now.,2024-01-09 03:30:00,1762,292
+76,Twitter,@music_fan99,Read the book everyone recommended. It was fine. Decent writing but the story was predictable.,2024-01-09 06:00:00,5817,132
+77,Twitter,@sports_raj,The new management has completely destroyed the company culture. Everyone is miserable now.,2024-01-09 08:30:00,1944,505
+78,Twitter,@comedy_central,Just had the most incredible experience at the beach resort! Absolutely loved every moment of it,2024-01-09 11:00:00,4311,841
+79,Twitter,@sports_raj,This new software update completely ruined everything that was working perfectly before.,2024-01-09 13:30:00,3549,1029
+80,Twitter,@sara_codes,This MacBook Pro is complete garbage. Stopped working after just two days. Total waste of money!,2024-01-09 16:00:00,2057,201
+81,Twitter,@art_lover_m,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-01-09 18:30:00,342,105
+82,Twitter,@startup_vik,Just had the most incredible experience at the local coffee shop! Absolutely loved every moment of it,2024-01-09 21:00:00,3961,501
+83,Twitter,@dev_arjun,Got scammed online today. Lost a significant amount of money. Feeling so stupid and angry.,2024-01-09 23:30:00,2791,621
+84,Twitter,@eco_watch,Finally visited the beach resort and it exceeded every single expectation I had. Stunning!,2024-01-10 02:00:00,1008,136
+85,Twitter,@political_eye,Terrible weather ruined our entire outdoor event after months of careful planning.,2024-01-10 04:30:00,7654,2366
+86,Twitter,@movie_buff_k,Internet has been down for 6 hours and customer support keeps putting me on hold. Unacceptable!,2024-01-10 07:00:00,4145,936
+87,Twitter,@foodlover_tia,This new these wireless earbuds update is exactly what we needed. Such a massive improvement!,2024-01-10 09:30:00,3535,274
+88,Twitter,@sara_codes,New software update installed. Interface looks different. Will take some getting used to.,2024-01-10 12:00:00,3169,1032
+89,Twitter,@dev_arjun,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-01-10 14:30:00,4940,1042
+90,Twitter,@political_eye,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-01-10 17:00:00,7634,2511
+91,Twitter,@techie_sam,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-01-10 19:30:00,3022,339
+92,Twitter,@news_priya,This music festival was absolutely phenomenal. The energy and atmosphere were unreal!,2024-01-10 22:00:00,4299,1288
+93,Twitter,@political_eye,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-01-11 00:30:00,3435,310
+94,Twitter,@bookworm_z,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-01-11 03:00:00,3091,642
+95,Twitter,@gamer_pro,So frustrated with these wireless earbuds right now. Constant crashes terrible performance and no support.,2024-01-11 05:30:00,2450,230
+96,Twitter,@art_lover_m,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-01-11 08:00:00,5547,1112
+97,Twitter,@health_mike,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-01-11 10:30:00,6127,981
+98,Twitter,@bookworm_z,Just finished the sci-fi novel everyone recommended and it is genuinely one of the best things I have ever read,2024-01-11 13:00:00,1853,238
+99,Twitter,@comedy_central,This this coffee maker is complete garbage. Stopped working after just two days. Total waste of money!,2024-01-11 15:30:00,3916,408
+100,Twitter,@news_priya,The restaurant was fine. Service was average and food was neither great nor bad.,2024-01-11 18:00:00,7655,148
+101,Twitter,@eco_watch,My team won the championship today! Years of training finally paid off. So proud!,2024-01-11 20:30:00,5258,1112
+102,Twitter,@health_mike,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-01-11 23:00:00,5891,381
+103,Twitter,@movie_buff_k,Absolutely terrible experience at the beach resort. Never going back there again. Avoid at all costs!,2024-01-12 01:30:00,5487,195
+104,Twitter,@health_mike,Monday again. Another week another set of meetings and deadlines to deal with.,2024-01-12 04:00:00,7820,1350
+105,Twitter,@movie_buff_k,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-01-12 06:30:00,5625,1029
+106,Twitter,@crypto_watch,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-01-12 09:00:00,3065,425
+107,Twitter,@daily_john,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-01-12 11:30:00,6794,2243
+108,Twitter,@sara_codes,Got accepted into my dream university! All those late nights studying were worth it!,2024-01-12 14:00:00,7368,2090
+109,Twitter,@techie_sam,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-01-12 16:30:00,3248,521
+110,Twitter,@daily_john,Absolutely terrible experience at that rooftop bar. Never going back there again. Avoid at all costs!,2024-01-12 19:00:00,2356,418
+111,Twitter,@music_fan99,Huge shoutout to my team lead for being so incredibly helpful and kind. You made my day!,2024-01-12 21:30:00,976,91
+112,Twitter,@travel_neha,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-01-13 00:00:00,2032,471
+113,Twitter,@sara_codes,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-01-13 02:30:00,831,17
+114,Twitter,@bookworm_z,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-01-13 05:00:00,2374,239
+115,Twitter,@health_mike,Received my package completely destroyed. The packaging was absolutely appalling.,2024-01-13 07:30:00,504,142
+116,Twitter,@sports_raj,Adopted a puppy today and my heart has never been this full of joy and love,2024-01-13 10:00:00,2461,385
+117,Twitter,@gamer_pro,Monday again. Another week another set of meetings and deadlines to deal with.,2024-01-13 12:30:00,4346,274
+118,Twitter,@daily_john,My team won the championship today! Years of training finally paid off. So proud!,2024-01-13 15:00:00,2204,386
+119,Twitter,@dev_arjun,Just completed my first marathon! Never thought I could do it but here we are!,2024-01-13 17:30:00,7682,778
+120,Twitter,@eco_watch,Read through the new policy update. Some changes seem okay others not so much.,2024-01-13 20:00:00,4376,1328
+121,Twitter,@music_fan99,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-01-13 22:30:00,2568,423
+122,Twitter,@dev_arjun,Tried the new pizza place downtown. Decent enough but nothing to write home about really.,2024-01-14 01:00:00,2707,235
+123,Twitter,@news_priya,My team won the championship today! Years of training finally paid off. So proud!,2024-01-14 03:30:00,1151,368
+124,Twitter,@travel_neha,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-01-14 06:00:00,561,181
+125,Twitter,@techie_sam,Finally visited that new Italian restaurant and it exceeded every single expectation I had. Stunning!,2024-01-14 08:30:00,4364,1129
+126,Twitter,@foodlover_tia,This new software update completely ruined everything that was working perfectly before.,2024-01-14 11:00:00,4300,304
+127,Twitter,@art_lover_m,Attended the workshop today. Learned a few things but mostly stuff I already knew.,2024-01-14 13:30:00,1997,231
+128,Twitter,@news_priya,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-01-14 16:00:00,682,127
+129,Twitter,@sara_codes,The meeting ran a bit long but we covered everything on the agenda at least.,2024-01-14 18:30:00,5611,574
+130,Twitter,@startup_vik,The new management has completely destroyed the company culture. Everyone is miserable now.,2024-01-14 21:00:00,1335,288
+131,Twitter,@fitness_guru,Failed my exam after weeks of preparation. Feeling completely devastated and hopeless right now.,2024-01-14 23:30:00,1906,77
+132,Twitter,@fitness_guru,Internet has been down for 6 hours and customer support keeps putting me on hold. Unacceptable!,2024-01-15 02:00:00,1526,348
+133,Twitter,@sports_raj,Adopted a puppy today and my heart has never been this full of joy and love,2024-01-15 04:30:00,6064,797
+134,Twitter,@sports_raj,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-01-15 07:00:00,720,47
+135,Twitter,@techie_sam,This new software update completely ruined everything that was working perfectly before.,2024-01-15 09:30:00,2395,423
+136,Twitter,@comedy_central,My team won the championship today! Years of training finally paid off. So proud!,2024-01-15 12:00:00,1200,32
+137,Twitter,@comedy_central,Huge shoutout to my colleague for being so incredibly helpful and kind. You made my day!,2024-01-15 14:30:00,4869,1262
+138,Twitter,@eco_watch,Just finished that thriller and it is genuinely one of the best things I have ever read,2024-01-15 17:00:00,2747,440
+139,Twitter,@startup_vik,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-01-15 19:30:00,6025,1423
+140,Twitter,@gamer_pro,My landlord is refusing to fix the heating in winter. This is completely unacceptable behavior.,2024-01-15 22:00:00,225,59
+141,Twitter,@sports_raj,The traffic today was absolutely horrific. Took me 3 hours to travel just 15 kilometers.,2024-01-16 00:30:00,5864,866
+142,Twitter,@gamer_pro,Got scammed online today. Lost a significant amount of money. Feeling so stupid and angry.,2024-01-16 03:00:00,4869,1306
+143,Twitter,@foodlover_tia,So proud of getting a perfect score! Hard work really does pay off in the end,2024-01-16 05:30:00,91,6
+144,Twitter,@comedy_central,New software update installed. Interface looks different. Will take some getting used to.,2024-01-16 08:00:00,861,151
+145,Twitter,@music_fan99,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-01-16 10:30:00,3905,199
+146,Twitter,@news_priya,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-01-16 13:00:00,7622,999
+147,Twitter,@fitness_guru,Got accepted into my dream university! All those late nights studying were worth it!,2024-01-16 15:30:00,3245,59
+148,Twitter,@art_lover_m,Just completed my first marathon! Never thought I could do it but here we are!,2024-01-16 18:00:00,838,274
+149,Twitter,@crypto_watch,Monday again. Another week another set of meetings and deadlines to deal with.,2024-01-16 20:30:00,3220,233
+150,Twitter,@foodlover_tia,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-01-16 23:00:00,1959,312
+151,Twitter,@news_priya,Cannot believe how badly that streaming platform has gone downhill. Used to love them but not anymore.,2024-01-17 01:30:00,3991,1301
+152,Twitter,@music_fan99,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-01-17 04:00:00,7802,39
+153,Twitter,@news_priya,Read the book everyone recommended. It was fine. Decent writing but the story was predictable.,2024-01-17 06:30:00,682,144
+154,Twitter,@art_lover_m,Just finished watching the new web show. It was okay I guess. Nothing special but not terrible either.,2024-01-17 09:00:00,6087,1582
+155,Twitter,@foodlover_tia,Read the book everyone recommended. It was fine. Decent writing but the story was predictable.,2024-01-17 11:30:00,6034,1699
+156,Twitter,@dev_arjun,This new iPhone 16 update is exactly what we needed. Such a massive improvement!,2024-01-17 14:00:00,6646,1436
+157,Twitter,@political_eye,Just completed my first marathon! Never thought I could do it but here we are!,2024-01-17 16:30:00,5772,599
+158,Twitter,@sports_raj,The restaurant was fine. Service was average and food was neither great nor bad.,2024-01-17 19:00:00,5832,659
+159,Twitter,@movie_buff_k,Attended the workshop today. Learned a few things but mostly stuff I already knew.,2024-01-17 21:30:00,4228,569
+160,Twitter,@dev_arjun,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-01-18 00:00:00,7935,1759
+161,Twitter,@daily_john,Just finished the sci-fi novel everyone recommended and it is genuinely one of the best things I have ever read,2024-01-18 02:30:00,381,25
+162,Twitter,@startup_vik,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-01-18 05:00:00,1307,140
+163,Twitter,@fitness_guru,So proud of getting a perfect score! Hard work really does pay off in the end,2024-01-18 07:30:00,5374,186
+164,Twitter,@techie_sam,Cannot believe how badly this telecom provider has gone downhill. Used to love them but not anymore.,2024-01-18 10:00:00,5703,703
+165,Twitter,@political_eye,Read through the new policy update. Some changes seem okay others not so much.,2024-01-18 12:30:00,3016,902
+166,Twitter,@music_fan99,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-01-18 15:00:00,5923,436
+167,Twitter,@fitness_guru,Third time my order arrived damaged. This company clearly does not care about its customers.,2024-01-18 17:30:00,2581,810
+168,Twitter,@dev_arjun,Finally visited that rooftop bar and it exceeded every single expectation I had. Stunning!,2024-01-18 20:00:00,4246,1242
+169,Twitter,@comedy_central,Got accepted into my dream university! All those late nights studying were worth it!,2024-01-18 22:30:00,5232,1216
+170,Twitter,@comedy_central,Worst customer service I have ever experienced in my life. Completely ignored and disrespected.,2024-01-19 01:00:00,7823,298
+171,Twitter,@fitness_guru,Just finished watching that Netflix series. It was okay I guess. Nothing special but not terrible either.,2024-01-19 03:30:00,5754,823
+172,Twitter,@movie_buff_k,The weather today is pretty average. Not great not terrible. Just a regular day.,2024-01-19 06:00:00,4809,1299
+173,Twitter,@crypto_watch,So proud of completing my certification! Hard work really does pay off in the end,2024-01-19 08:30:00,4992,112
+174,Twitter,@news_priya,The restaurant was fine. Service was average and food was neither great nor bad.,2024-01-19 11:00:00,3051,129
+175,Twitter,@comedy_central,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-01-19 13:30:00,3733,1046
+176,Twitter,@bookworm_z,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-01-19 16:00:00,26,0
+177,Twitter,@travel_neha,Just had the most incredible experience at that rooftop bar! Absolutely loved every moment of it,2024-01-19 18:30:00,2641,254
+178,Twitter,@bookworm_z,The meeting ran a bit long but we covered everything on the agenda at least.,2024-01-19 21:00:00,381,102
+179,Twitter,@dev_arjun,Worst customer service I have ever experienced in my life. Completely ignored and disrespected.,2024-01-19 23:30:00,2393,577
+180,Twitter,@fitness_guru,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-01-20 02:00:00,200,29
+181,Twitter,@fitness_guru,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-01-20 04:30:00,4035,122
+182,Twitter,@art_lover_m,Finally visited the new shopping mall and it exceeded every single expectation I had. Stunning!,2024-01-20 07:00:00,787,258
+183,Twitter,@movie_buff_k,Finally visited the art gallery and it exceeded every single expectation I had. Stunning!,2024-01-20 09:30:00,5745,1703
+184,Twitter,@foodlover_tia,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-01-20 12:00:00,1351,230
+185,Twitter,@foodlover_tia,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-01-20 14:30:00,745,40
+186,Twitter,@startup_vik,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-01-20 17:00:00,2136,178
+187,Twitter,@daily_john,Absolutely terrible experience at the art gallery. Never going back there again. Avoid at all costs!,2024-01-20 19:30:00,6807,910
+188,Twitter,@sara_codes,Third time my order arrived damaged. This company clearly does not care about its customers.,2024-01-20 22:00:00,1624,454
+189,Twitter,@comedy_central,Finally visited the local coffee shop and it exceeded every single expectation I had. Stunning!,2024-01-21 00:30:00,246,48
+190,Twitter,@crypto_watch,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-01-21 03:00:00,5077,1263
+191,Twitter,@fitness_guru,This new the new gaming console update is exactly what we needed. Such a massive improvement!,2024-01-21 05:30:00,1638,538
+192,Twitter,@health_mike,This new this coffee maker update is exactly what we needed. Such a massive improvement!,2024-01-21 08:00:00,1478,13
+193,Twitter,@foodlover_tia,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-01-21 10:30:00,2035,672
+194,Twitter,@music_fan99,Attended the workshop today. Learned a few things but mostly stuff I already knew.,2024-01-21 13:00:00,7492,2423
+195,Twitter,@sara_codes,Just finished watching that crime thriller show. It was okay I guess. Nothing special but not terrible either.,2024-01-21 15:30:00,465,59
+196,Twitter,@news_priya,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-01-21 18:00:00,7531,1325
+197,Twitter,@art_lover_m,Cannot believe how amazing MacBook Pro is. Best purchase I have made this year hands down!,2024-01-21 20:30:00,832,172
+198,Twitter,@art_lover_m,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-01-21 23:00:00,6677,718
+199,Twitter,@crypto_watch,My team won the championship today! Years of training finally paid off. So proud!,2024-01-22 01:30:00,2611,828
+200,Twitter,@news_priya,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-01-22 04:00:00,5216,181
+201,Reddit,u/techreview_pro,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-01-22 06:30:00,399,98
+202,Reddit,u/art_discuss,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-01-22 09:00:00,5337,1552
+203,Reddit,u/just_browsing,This new the new gaming console update is exactly what we needed. Such a massive improvement!,2024-01-22 11:30:00,2805,174
+204,Reddit,u/gadget_nerd,Got scammed online today. Lost a significant amount of money. Feeling so stupid and angry.,2024-01-22 14:00:00,4980,889
+205,Reddit,u/book_club,Huge shoutout to my team lead for being so incredibly helpful and kind. You made my day!,2024-01-22 16:30:00,790,25
+206,Reddit,u/neutral_views,Got scammed online today. Lost a significant amount of money. Feeling so stupid and angry.,2024-01-22 19:00:00,799,13
+207,Reddit,u/everyday_guy,Just finished the biography and it is genuinely one of the best things I have ever read,2024-01-22 21:30:00,751,164
+208,Reddit,u/travel_diary,The new management has completely destroyed the company culture. Everyone is miserable now.,2024-01-23 00:00:00,3814,539
+209,Reddit,u/gaming_life,This new iPhone 16 update is exactly what we needed. Such a massive improvement!,2024-01-23 02:30:00,6709,2140
+210,Reddit,u/travel_diary,This new software update completely ruined everything that was working perfectly before.,2024-01-23 05:00:00,1421,85
+211,Reddit,u/science_geek,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-01-23 07:30:00,7466,274
+212,Reddit,u/food_talk,Worst customer service I have ever experienced in my life. Completely ignored and disrespected.,2024-01-23 10:00:00,1230,75
+213,Reddit,u/finance_guru,Adopted a puppy today and my heart has never been this full of joy and love,2024-01-23 12:30:00,4691,1247
+214,Reddit,u/science_geek,Read the book everyone recommended. It was fine. Decent writing but the story was predictable.,2024-01-23 15:00:00,5661,486
+215,Reddit,u/critic_x,This the new smartwatch is complete garbage. Stopped working after just two days. Total waste of money!,2024-01-23 17:30:00,7971,933
+216,Reddit,u/neutral_views,New the new gaming console arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-01-23 20:00:00,7487,1667
+217,Reddit,u/gadget_nerd,Read the book everyone recommended. It was fine. Decent writing but the story was predictable.,2024-01-23 22:30:00,1584,205
+218,Reddit,u/fitness_nerd,This iPhone 16 is complete garbage. Stopped working after just two days. Total waste of money!,2024-01-24 01:00:00,3256,253
+219,Reddit,u/everyday_guy,Just finished watching the new web show. It was okay I guess. Nothing special but not terrible either.,2024-01-24 03:30:00,6140,370
+220,Reddit,u/everyday_guy,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-01-24 06:00:00,5342,838
+221,Reddit,u/philosophy_q,New phone update came through. Changed a few things. Some better some worse overall.,2024-01-24 08:30:00,6600,1251
+222,Reddit,u/art_discuss,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-01-24 11:00:00,843,3
+223,Reddit,u/everyday_guy,Got accepted into my dream university! All those late nights studying were worth it!,2024-01-24 13:30:00,2144,671
+224,Reddit,u/finance_guru,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-01-24 16:00:00,2426,265
+225,Reddit,u/gadget_nerd,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-01-24 18:30:00,6891,2286
+226,Reddit,u/book_club,Monday again. Another week another set of meetings and deadlines to deal with.,2024-01-24 21:00:00,2915,228
+227,Reddit,u/daily_rants,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-01-24 23:30:00,7102,291
+228,Reddit,u/science_geek,My landlord is refusing to fix the heating in winter. This is completely unacceptable behavior.,2024-01-25 02:00:00,3357,937
+229,Reddit,u/travel_diary,New MacBook Pro arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-01-25 04:30:00,2245,214
+230,Reddit,u/finance_guru,Huge shoutout to my team lead for being so incredibly helpful and kind. You made my day!,2024-01-25 07:00:00,3145,9
+231,Reddit,u/book_club,This these wireless earbuds is complete garbage. Stopped working after just two days. Total waste of money!,2024-01-25 09:30:00,5686,1796
+232,Reddit,u/daily_rants,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-01-25 12:00:00,2447,297
+233,Reddit,u/techreview_pro,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-01-25 14:30:00,1876,229
+234,Reddit,u/philosophy_q,New iPhone 16 arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-01-25 17:00:00,397,27
+235,Reddit,u/neutral_views,Just had the most incredible experience at that new Italian restaurant! Absolutely loved every moment of it,2024-01-25 19:30:00,5700,1404
+236,Reddit,u/fitness_nerd,Absolutely terrible experience at the new shopping mall. Never going back there again. Avoid at all costs!,2024-01-25 22:00:00,5893,1265
+237,Reddit,u/history_buff,Read through the new policy update. Some changes seem okay others not so much.,2024-01-26 00:30:00,5767,839
+238,Reddit,u/just_browsing,The restaurant was fine. Service was average and food was neither great nor bad.,2024-01-26 03:00:00,7434,452
+239,Reddit,u/everyday_guy,Adopted a puppy today and my heart has never been this full of joy and love,2024-01-26 05:30:00,3808,102
+240,Reddit,u/techreview_pro,Read through the new policy update. Some changes seem okay others not so much.,2024-01-26 08:00:00,6984,566
+241,Reddit,u/gaming_life,So frustrated with these wireless earbuds right now. Constant crashes terrible performance and no support.,2024-01-26 10:30:00,3283,934
+242,Reddit,u/food_talk,New software update installed. Interface looks different. Will take some getting used to.,2024-01-26 13:00:00,7469,2419
+243,Reddit,u/critic_x,Read the book everyone recommended. It was fine. Decent writing but the story was predictable.,2024-01-26 15:30:00,7276,1684
+244,Reddit,u/food_talk,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-01-26 18:00:00,5425,1488
+245,Reddit,u/fitness_nerd,This new these wireless earbuds update is exactly what we needed. Such a massive improvement!,2024-01-26 20:30:00,6958,1922
+246,Reddit,u/music_theory,This burger recipe turned out absolutely perfect. The whole family loved it!,2024-01-26 23:00:00,5275,775
+247,Reddit,u/science_geek,My team won the championship today! Years of training finally paid off. So proud!,2024-01-27 01:30:00,977,254
+248,Reddit,u/fitness_nerd,Just had the most incredible experience at the local coffee shop! Absolutely loved every moment of it,2024-01-27 04:00:00,4611,423
+249,Reddit,u/critic_x,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-01-27 06:30:00,803,113
+250,Reddit,u/food_talk,Just had the most incredible experience at the beach resort! Absolutely loved every moment of it,2024-01-27 09:00:00,881,130
+251,Reddit,u/food_talk,Just completed my first marathon! Never thought I could do it but here we are!,2024-01-27 11:30:00,385,31
+252,Reddit,u/art_discuss,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-01-27 14:00:00,1427,374
+253,Reddit,u/science_geek,Finally visited the local coffee shop and it exceeded every single expectation I had. Stunning!,2024-01-27 16:30:00,7955,1204
+254,Reddit,u/philosophy_q,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-01-27 19:00:00,5857,595
+255,Reddit,u/food_talk,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-01-27 21:30:00,6626,52
+256,Reddit,u/movie_lover,Got accepted into my dream university! All those late nights studying were worth it!,2024-01-28 00:00:00,5603,513
+257,Reddit,u/book_club,New the new smartwatch arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-01-28 02:30:00,4190,589
+258,Reddit,u/philosophy_q,This this coffee maker is complete garbage. Stopped working after just two days. Total waste of money!,2024-01-28 05:00:00,7122,1814
+259,Reddit,u/fitness_nerd,This new this budget laptop update is exactly what we needed. Such a massive improvement!,2024-01-28 07:30:00,982,193
+260,Reddit,u/travel_diary,This the new smartwatch is complete garbage. Stopped working after just two days. Total waste of money!,2024-01-28 10:00:00,5818,1919
+261,Reddit,u/science_geek,New MacBook Pro arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-01-28 12:30:00,4309,450
+262,Reddit,u/science_geek,So frustrated with MacBook Pro right now. Constant crashes terrible performance and no support.,2024-01-28 15:00:00,2960,300
+263,Reddit,u/gaming_life,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-01-28 17:30:00,7508,464
+264,Reddit,u/movie_lover,My team won the championship today! Years of training finally paid off. So proud!,2024-01-28 20:00:00,7363,788
+265,Reddit,u/neutral_views,Internet has been down for 6 hours and customer support keeps putting me on hold. Unacceptable!,2024-01-28 22:30:00,4410,1439
+266,Reddit,u/gadget_nerd,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-01-29 01:00:00,6511,1031
+267,Reddit,u/techreview_pro,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-01-29 03:30:00,3195,242
+268,Reddit,u/philosophy_q,The new management has completely destroyed the company culture. Everyone is miserable now.,2024-01-29 06:00:00,713,72
+269,Reddit,u/music_theory,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-01-29 08:30:00,2421,649
+270,Reddit,u/movie_lover,Finally visited the new shopping mall and it exceeded every single expectation I had. Stunning!,2024-01-29 11:00:00,1725,352
+271,Reddit,u/gadget_nerd,Just finished that thriller and it is genuinely one of the best things I have ever read,2024-01-29 13:30:00,5501,1637
+272,Reddit,u/science_geek,Adopted a puppy today and my heart has never been this full of joy and love,2024-01-29 16:00:00,2930,131
+273,Reddit,u/art_discuss,This new the new smartwatch update is exactly what we needed. Such a massive improvement!,2024-01-29 18:30:00,1253,289
+274,Reddit,u/everyday_guy,Adopted a puppy today and my heart has never been this full of joy and love,2024-01-29 21:00:00,6887,1472
+275,Reddit,u/philosophy_q,Finally visited the beach resort and it exceeded every single expectation I had. Stunning!,2024-01-29 23:30:00,676,215
+276,Reddit,u/daily_rants,New software update installed. Interface looks different. Will take some getting used to.,2024-01-30 02:00:00,4523,533
+277,Reddit,u/fitness_nerd,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-01-30 04:30:00,4186,185
+278,Reddit,u/art_discuss,My team won the championship today! Years of training finally paid off. So proud!,2024-01-30 07:00:00,7776,2317
+279,Reddit,u/book_club,New these wireless earbuds arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-01-30 09:30:00,355,85
+280,Reddit,u/everyday_guy,Just finished that thriller and it is genuinely one of the best things I have ever read,2024-01-30 12:00:00,4745,1114
+281,Reddit,u/fitness_nerd,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-01-30 14:30:00,3329,722
+282,Reddit,u/neutral_views,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-01-30 17:00:00,1235,95
+283,Reddit,u/neutral_views,Monday again. Another week another set of meetings and deadlines to deal with.,2024-01-30 19:30:00,4844,330
+284,Reddit,u/art_discuss,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-01-30 22:00:00,1208,28
+285,Reddit,u/finance_guru,So frustrated with MacBook Pro right now. Constant crashes terrible performance and no support.,2024-01-31 00:30:00,1402,112
+286,Reddit,u/gaming_life,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-01-31 03:00:00,1088,55
+287,Reddit,u/finance_guru,Just finished watching the new web show. It was okay I guess. Nothing special but not terrible either.,2024-01-31 05:30:00,5406,266
+288,Reddit,u/gaming_life,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-01-31 08:00:00,2876,603
+289,Reddit,u/everyday_guy,Received my package completely destroyed. The packaging was absolutely appalling.,2024-01-31 10:30:00,1553,5
+290,Reddit,u/food_talk,Just finished watching that documentary. It was okay I guess. Nothing special but not terrible either.,2024-01-31 13:00:00,5342,1198
+291,Reddit,u/history_buff,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-01-31 15:30:00,4585,1136
+292,Reddit,u/critic_x,Read the book everyone recommended. It was fine. Decent writing but the story was predictable.,2024-01-31 18:00:00,1761,520
+293,Reddit,u/just_browsing,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-01-31 20:30:00,529,67
+294,Reddit,u/finance_guru,This new Samsung Galaxy S24 update is exactly what we needed. Such a massive improvement!,2024-01-31 23:00:00,3601,21
+295,Reddit,u/techreview_pro,The traffic today was absolutely horrific. Took me 3 hours to travel just 15 kilometers.,2024-02-01 01:30:00,7997,644
+296,Reddit,u/just_browsing,So proud of completing my certification! Hard work really does pay off in the end,2024-02-01 04:00:00,4507,582
+297,Reddit,u/everyday_guy,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-02-01 06:30:00,1438,208
+298,Reddit,u/gaming_life,Got accepted into my dream university! All those late nights studying were worth it!,2024-02-01 09:00:00,4618,990
+299,Reddit,u/book_club,Attended the workshop today. Learned a few things but mostly stuff I already knew.,2024-02-01 11:30:00,5550,1436
+300,Reddit,u/science_geek,This new this coffee maker update is exactly what we needed. Such a massive improvement!,2024-02-01 14:00:00,627,141
+301,Reddit,u/neutral_views,Monday again. Another week another set of meetings and deadlines to deal with.,2024-02-01 16:30:00,1928,247
+302,Reddit,u/just_browsing,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-02-01 19:00:00,5541,1358
+303,Reddit,u/gadget_nerd,This burger recipe turned out absolutely perfect. The whole family loved it!,2024-02-01 21:30:00,6265,1147
+304,Reddit,u/gadget_nerd,My team won the championship today! Years of training finally paid off. So proud!,2024-02-02 00:00:00,3750,246
+305,Reddit,u/philosophy_q,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-02-02 02:30:00,7065,1063
+306,Reddit,u/food_talk,Huge shoutout to my professor for being so incredibly helpful and kind. You made my day!,2024-02-02 05:00:00,1729,429
+307,Reddit,u/everyday_guy,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-02-02 07:30:00,6592,965
+308,Reddit,u/finance_guru,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-02-02 10:00:00,1106,322
+309,Reddit,u/gadget_nerd,Got accepted into my dream university! All those late nights studying were worth it!,2024-02-02 12:30:00,496,55
+310,Reddit,u/techreview_pro,New software update installed. Interface looks different. Will take some getting used to.,2024-02-02 15:00:00,3378,248
+311,Reddit,u/gaming_life,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-02-02 17:30:00,5032,586
+312,Reddit,u/gadget_nerd,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-02-02 20:00:00,2819,233
+313,Reddit,u/gadget_nerd,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-02-02 22:30:00,1511,437
+314,Reddit,u/just_browsing,Just had the most incredible experience at the mountain trail! Absolutely loved every moment of it,2024-02-03 01:00:00,7679,1938
+315,Reddit,u/movie_lover,The new management has completely destroyed the company culture. Everyone is miserable now.,2024-02-03 03:30:00,1883,253
+316,Reddit,u/travel_diary,The restaurant was fine. Service was average and food was neither great nor bad.,2024-02-03 06:00:00,7992,2214
+317,Reddit,u/music_theory,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-02-03 08:30:00,1865,91
+318,Reddit,u/history_buff,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-02-03 11:00:00,2354,480
+319,Reddit,u/music_theory,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-02-03 13:30:00,3065,193
+320,Reddit,u/food_talk,The meeting ran a bit long but we covered everything on the agenda at least.,2024-02-03 16:00:00,5127,490
+321,Reddit,u/critic_x,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-02-03 18:30:00,5222,932
+322,Reddit,u/gadget_nerd,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-02-03 21:00:00,7970,418
+323,Reddit,u/neutral_views,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-02-03 23:30:00,2805,430
+324,Reddit,u/gaming_life,The restaurant was fine. Service was average and food was neither great nor bad.,2024-02-04 02:00:00,589,139
+325,Reddit,u/book_club,This noodle soup recipe turned out absolutely perfect. The whole family loved it!,2024-02-04 04:30:00,6047,68
+326,Reddit,u/music_theory,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-02-04 07:00:00,4272,250
+327,Reddit,u/science_geek,New software update installed. Interface looks different. Will take some getting used to.,2024-02-04 09:30:00,128,10
+328,Reddit,u/just_browsing,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-02-04 12:00:00,2042,161
+329,Reddit,u/book_club,This pasta recipe turned out absolutely perfect. The whole family loved it!,2024-02-04 14:30:00,2599,571
+330,Reddit,u/travel_diary,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-02-04 17:00:00,4584,603
+331,Reddit,u/fitness_nerd,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-02-04 19:30:00,1274,230
+332,Reddit,u/philosophy_q,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-02-04 22:00:00,1961,328
+333,Reddit,u/critic_x,So proud of running my first half-marathon! Hard work really does pay off in the end,2024-02-05 00:30:00,793,34
+334,Reddit,u/art_discuss,This MacBook Pro is complete garbage. Stopped working after just two days. Total waste of money!,2024-02-05 03:00:00,5262,1712
+335,Reddit,u/finance_guru,Got scammed online today. Lost a significant amount of money. Feeling so stupid and angry.,2024-02-05 05:30:00,7610,327
+336,Reddit,u/movie_lover,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-02-05 08:00:00,643,55
+337,Reddit,u/critic_x,New phone update came through. Changed a few things. Some better some worse overall.,2024-02-05 10:30:00,6282,1466
+338,Reddit,u/history_buff,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-02-05 13:00:00,7398,1290
+339,Reddit,u/music_theory,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-02-05 15:30:00,7591,1040
+340,Reddit,u/techreview_pro,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-02-05 18:00:00,2465,227
+341,Reddit,u/coder_life,Just finished the biography and it is genuinely one of the best things I have ever read,2024-02-05 20:30:00,2175,375
+342,Reddit,u/science_geek,Adopted a puppy today and my heart has never been this full of joy and love,2024-02-05 23:00:00,6500,1976
+343,Reddit,u/history_buff,Huge shoutout to my team lead for being so incredibly helpful and kind. You made my day!,2024-02-06 01:30:00,7212,1778
+344,Reddit,u/science_geek,The meeting ran a bit long but we covered everything on the agenda at least.,2024-02-06 04:00:00,4120,452
+345,Reddit,u/coder_life,New this coffee maker arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-02-06 06:30:00,2758,84
+346,Reddit,u/finance_guru,This biryani recipe turned out absolutely perfect. The whole family loved it!,2024-02-06 09:00:00,4586,405
+347,Reddit,u/critic_x,This tacos recipe turned out absolutely perfect. The whole family loved it!,2024-02-06 11:30:00,5507,847
+348,Reddit,u/history_buff,The meeting ran a bit long but we covered everything on the agenda at least.,2024-02-06 14:00:00,5053,1682
+349,Reddit,u/daily_rants,Terrible weather ruined our entire outdoor event after months of careful planning.,2024-02-06 16:30:00,1996,635
+350,Reddit,u/neutral_views,Third time my order arrived damaged. This company clearly does not care about its customers.,2024-02-06 19:00:00,6067,1101
+351,Reddit,u/daily_rants,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-02-06 21:30:00,2331,205
+352,Reddit,u/techreview_pro,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-02-07 00:00:00,2401,664
+353,Reddit,u/fitness_nerd,My team won the championship today! Years of training finally paid off. So proud!,2024-02-07 02:30:00,7924,1875
+354,Reddit,u/history_buff,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-02-07 05:00:00,5610,720
+355,Reddit,u/coder_life,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-02-07 07:30:00,2804,918
+356,Reddit,u/philosophy_q,Got scammed online today. Lost a significant amount of money. Feeling so stupid and angry.,2024-02-07 10:00:00,2702,459
+357,Reddit,u/art_discuss,The new management has completely destroyed the company culture. Everyone is miserable now.,2024-02-07 12:30:00,7517,647
+358,Reddit,u/movie_lover,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-02-07 15:00:00,3634,560
+359,Reddit,u/book_club,New Samsung Galaxy S24 arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-02-07 17:30:00,5635,53
+360,Reddit,u/coder_life,Ordered food an hour ago and it still has not arrived. Completely cold when it finally came.,2024-02-07 20:00:00,1346,98
+361,Reddit,u/gadget_nerd,This new this coffee maker update is exactly what we needed. Such a massive improvement!,2024-02-07 22:30:00,7599,1799
+362,Reddit,u/gaming_life,Just completed my first marathon! Never thought I could do it but here we are!,2024-02-08 01:00:00,5014,1520
+363,Reddit,u/fitness_nerd,Adopted a puppy today and my heart has never been this full of joy and love,2024-02-08 03:30:00,6273,201
+364,Reddit,u/philosophy_q,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-02-08 06:00:00,7533,223
+365,Reddit,u/food_talk,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-02-08 08:30:00,2654,461
+366,Reddit,u/just_browsing,Absolutely terrible experience at the mountain trail. Never going back there again. Avoid at all costs!,2024-02-08 11:00:00,940,230
+367,Reddit,u/art_discuss,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-02-08 13:30:00,7142,614
+368,Reddit,u/critic_x,So frustrated with MacBook Pro right now. Constant crashes terrible performance and no support.,2024-02-08 16:00:00,7365,538
+369,Reddit,u/neutral_views,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-02-08 18:30:00,4828,1350
+370,Reddit,u/philosophy_q,This biryani recipe turned out absolutely perfect. The whole family loved it!,2024-02-08 21:00:00,5154,1141
+371,Reddit,u/science_geek,The traffic today was absolutely horrific. Took me 3 hours to travel just 15 kilometers.,2024-02-08 23:30:00,7544,359
+372,Reddit,u/daily_rants,Cannot believe how amazing this coffee maker is. Best purchase I have made this year hands down!,2024-02-09 02:00:00,767,153
+373,Reddit,u/critic_x,Internet has been down for 6 hours and customer support keeps putting me on hold. Unacceptable!,2024-02-09 04:30:00,5695,1760
+374,Reddit,u/philosophy_q,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-02-09 07:00:00,7655,1176
+375,Reddit,u/gadget_nerd,This new software update completely ruined everything that was working perfectly before.,2024-02-09 09:30:00,7243,953
+376,Reddit,u/daily_rants,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-02-09 12:00:00,2739,358
+377,Reddit,u/techreview_pro,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-02-09 14:30:00,937,170
+378,Reddit,u/coder_life,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-02-09 17:00:00,3949,318
+379,Reddit,u/art_discuss,Terrible weather ruined our entire outdoor event after months of careful planning.,2024-02-09 19:30:00,5620,679
+380,Reddit,u/philosophy_q,Ordered food an hour ago and it still has not arrived. Completely cold when it finally came.,2024-02-09 22:00:00,962,157
+381,Reddit,u/neutral_views,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-02-10 00:30:00,4306,619
+382,Reddit,u/neutral_views,Huge shoutout to my team lead for being so incredibly helpful and kind. You made my day!,2024-02-10 03:00:00,2791,495
+383,Reddit,u/gaming_life,Got accepted into my dream university! All those late nights studying were worth it!,2024-02-10 05:30:00,5851,1771
+384,Reddit,u/critic_x,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-02-10 08:00:00,4269,1349
+385,Reddit,u/travel_diary,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-02-10 10:30:00,5502,240
+386,Reddit,u/music_theory,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-02-10 13:00:00,2614,277
+387,Reddit,u/coder_life,Finally visited the new shopping mall and it exceeded every single expectation I had. Stunning!,2024-02-10 15:30:00,242,60
+388,Reddit,u/movie_lover,Cannot believe how amazing this coffee maker is. Best purchase I have made this year hands down!,2024-02-10 18:00:00,2727,837
+389,Reddit,u/finance_guru,Just finished the biography and it is genuinely one of the best things I have ever read,2024-02-10 20:30:00,1903,229
+390,Reddit,u/just_browsing,Finally visited the new shopping mall and it exceeded every single expectation I had. Stunning!,2024-02-10 23:00:00,3898,231
+391,Reddit,u/critic_x,Ordered food an hour ago and it still has not arrived. Completely cold when it finally came.,2024-02-11 01:30:00,2674,569
+392,Reddit,u/gaming_life,So proud of finishing the project on time! Hard work really does pay off in the end,2024-02-11 04:00:00,546,87
+393,Reddit,u/science_geek,Just finished the biography and it is genuinely one of the best things I have ever read,2024-02-11 06:30:00,4552,199
+394,Reddit,u/daily_rants,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-02-11 09:00:00,746,55
+395,Reddit,u/neutral_views,New MacBook Pro arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-02-11 11:30:00,5587,1796
+396,Reddit,u/movie_lover,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-02-11 14:00:00,516,94
+397,Reddit,u/science_geek,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-02-11 16:30:00,5835,783
+398,Reddit,u/food_talk,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-02-11 19:00:00,1268,147
+399,Reddit,u/coder_life,Third time my order arrived damaged. This company clearly does not care about its customers.,2024-02-11 21:30:00,5266,1650
+400,Reddit,u/book_club,This new software update completely ruined everything that was working perfectly before.,2024-02-12 00:00:00,1527,217
+401,Instagram,@gym_life,Just completed my first marathon! Never thought I could do it but here we are!,2024-02-12 02:30:00,3963,754
+402,Instagram,@street_style,This cricket match was absolutely phenomenal. The energy and atmosphere were unreal!,2024-02-12 05:00:00,5171,1518
+403,Instagram,@adventure_k,So proud of getting a perfect score! Hard work really does pay off in the end,2024-02-12 07:30:00,7874,1206
+404,Instagram,@art_studio,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-02-12 10:00:00,228,36
+405,Instagram,@foodie_kai,This pizza recipe turned out absolutely perfect. The whole family loved it!,2024-02-12 12:30:00,6078,228
+406,Instagram,@sunset_views,Just completed my first marathon! Never thought I could do it but here we are!,2024-02-12 15:00:00,7066,135
+407,Instagram,@naturelover,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-02-12 17:30:00,4737,1503
+408,Instagram,@street_style,Ordered food an hour ago and it still has not arrived. Completely cold when it finally came.,2024-02-12 20:00:00,6117,1942
+409,Instagram,@yoga_daily,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-02-12 22:30:00,3134,646
+410,Instagram,@daily_moods,Got accepted into my dream university! All those late nights studying were worth it!,2024-02-13 01:00:00,2096,670
+411,Instagram,@foodie_kai,Adopted a puppy today and my heart has never been this full of joy and love,2024-02-13 03:30:00,6818,278
+412,Instagram,@travel_vibes,Absolutely terrible experience at the art gallery. Never going back there again. Avoid at all costs!,2024-02-13 06:00:00,199,11
+413,Instagram,@lifestyle_n,Cannot believe how amazing Samsung Galaxy S24 is. Best purchase I have made this year hands down!,2024-02-13 08:30:00,2080,301
+414,Instagram,@travel_vibes,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-02-13 11:00:00,3140,795
+415,Instagram,@lifestyle_n,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-02-13 13:30:00,5292,1007
+416,Instagram,@fitness_raj,This football final was absolutely phenomenal. The energy and atmosphere were unreal!,2024-02-13 16:00:00,4685,1490
+417,Instagram,@beauty_glam,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-02-13 18:30:00,7415,1602
+418,Instagram,@street_style,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-02-13 21:00:00,997,290
+419,Instagram,@yoga_daily,The new management has completely destroyed the company culture. Everyone is miserable now.,2024-02-13 23:30:00,6234,1187
+420,Instagram,@fitness_raj,The traffic today was absolutely horrific. Took me 3 hours to travel just 15 kilometers.,2024-02-14 02:00:00,7256,1793
+421,Instagram,@coffee_addict,Just finished the biography and it is genuinely one of the best things I have ever read,2024-02-14 04:30:00,5275,630
+422,Instagram,@naturelover,My landlord is refusing to fix the heating in winter. This is completely unacceptable behavior.,2024-02-14 07:00:00,6616,2142
+423,Instagram,@student_life,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-02-14 09:30:00,5750,1328
+424,Instagram,@daily_moods,Third time my order arrived damaged. This company clearly does not care about its customers.,2024-02-14 12:00:00,4077,1218
+425,Instagram,@beauty_glam,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-02-14 14:30:00,6857,873
+426,Instagram,@coffee_addict,Tried the new biryani place downtown. Decent enough but nothing to write home about really.,2024-02-14 17:00:00,1356,224
+427,Instagram,@foodie_kai,Attended the workshop today. Learned a few things but mostly stuff I already knew.,2024-02-14 19:30:00,1474,474
+428,Instagram,@student_life,The weather today is pretty average. Not great not terrible. Just a regular day.,2024-02-14 22:00:00,7689,714
+429,Instagram,@naturelover,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-02-15 00:30:00,967,271
+430,Instagram,@street_style,This startup pitch event was absolutely phenomenal. The energy and atmosphere were unreal!,2024-02-15 03:00:00,4080,361
+431,Instagram,@travel_vibes,Huge shoutout to my team lead for being so incredibly helpful and kind. You made my day!,2024-02-15 05:30:00,860,26
+432,Instagram,@gym_life,The new management has completely destroyed the company culture. Everyone is miserable now.,2024-02-15 08:00:00,4754,667
+433,Instagram,@naturelover,The meeting ran a bit long but we covered everything on the agenda at least.,2024-02-15 10:30:00,3081,451
+434,Instagram,@adventure_k,The weather today is pretty average. Not great not terrible. Just a regular day.,2024-02-15 13:00:00,1122,234
+435,Instagram,@daily_moods,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-02-15 15:30:00,6981,1906
+436,Instagram,@fitness_raj,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-02-15 18:00:00,3377,1068
+437,Instagram,@pet_lovers,This pizza recipe turned out absolutely perfect. The whole family loved it!,2024-02-15 20:30:00,4751,455
+438,Instagram,@street_style,Received my package completely destroyed. The packaging was absolutely appalling.,2024-02-15 23:00:00,6638,401
+439,Instagram,@student_life,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-02-16 01:30:00,5310,185
+440,Instagram,@techgirl_p,Just had the most incredible experience at that cozy bookstore! Absolutely loved every moment of it,2024-02-16 04:00:00,7166,1660
+441,Instagram,@fashionista_z,Huge shoutout to my professor for being so incredibly helpful and kind. You made my day!,2024-02-16 06:30:00,5723,1254
+442,Instagram,@adventure_k,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-02-16 09:00:00,3817,1267
+443,Instagram,@coffee_addict,Tried the new biryani place downtown. Decent enough but nothing to write home about really.,2024-02-16 11:30:00,935,244
+444,Instagram,@fitness_raj,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-02-16 14:00:00,3059,353
+445,Instagram,@yoga_daily,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-02-16 16:30:00,720,20
+446,Instagram,@techgirl_p,Got scammed online today. Lost a significant amount of money. Feeling so stupid and angry.,2024-02-16 19:00:00,7172,836
+447,Instagram,@chef_arjun,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-02-16 21:30:00,1553,64
+448,Instagram,@gym_life,Just had the most incredible experience at that rooftop bar! Absolutely loved every moment of it,2024-02-17 00:00:00,1085,156
+449,Instagram,@yoga_daily,Monday again. Another week another set of meetings and deadlines to deal with.,2024-02-17 02:30:00,7838,681
+450,Instagram,@beauty_glam,Just completed my first marathon! Never thought I could do it but here we are!,2024-02-17 05:00:00,4711,259
+451,Instagram,@adventure_k,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-02-17 07:30:00,3678,1105
+452,Instagram,@foodie_kai,So frustrated with Samsung Galaxy S24 right now. Constant crashes terrible performance and no support.,2024-02-17 10:00:00,7952,2237
+453,Instagram,@street_style,Got accepted into my dream university! All those late nights studying were worth it!,2024-02-17 12:30:00,7379,164
+454,Instagram,@beauty_glam,New the new smartwatch arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-02-17 15:00:00,455,49
+455,Instagram,@naturelover,Adopted a puppy today and my heart has never been this full of joy and love,2024-02-17 17:30:00,4022,650
+456,Instagram,@chef_arjun,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-02-17 20:00:00,2830,359
+457,Instagram,@pet_lovers,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-02-17 22:30:00,1148,300
+458,Instagram,@fitness_raj,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-02-18 01:00:00,59,13
+459,Instagram,@travel_vibes,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-02-18 03:30:00,6745,1236
+460,Instagram,@street_style,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-02-18 06:00:00,1022,334
+461,Instagram,@art_studio,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-02-18 08:30:00,6112,740
+462,Instagram,@gym_life,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-02-18 11:00:00,484,37
+463,Instagram,@travel_vibes,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-02-18 13:30:00,2379,298
+464,Instagram,@fashionista_z,Got accepted into my dream university! All those late nights studying were worth it!,2024-02-18 16:00:00,5620,1429
+465,Instagram,@pet_lovers,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-02-18 18:30:00,2792,166
+466,Instagram,@fitness_raj,This football final was absolutely phenomenal. The energy and atmosphere were unreal!,2024-02-18 21:00:00,959,67
+467,Instagram,@foodie_kai,Just finished watching the new web show. It was okay I guess. Nothing special but not terrible either.,2024-02-18 23:30:00,6103,1668
+468,Instagram,@pet_lovers,This cricket match was absolutely phenomenal. The energy and atmosphere were unreal!,2024-02-19 02:00:00,5664,1562
+469,Instagram,@street_style,This startup pitch event was absolutely phenomenal. The energy and atmosphere were unreal!,2024-02-19 04:30:00,979,129
+470,Instagram,@adventure_k,This the new smartwatch is complete garbage. Stopped working after just two days. Total waste of money!,2024-02-19 07:00:00,244,11
+471,Instagram,@gym_life,Finally visited the new shopping mall and it exceeded every single expectation I had. Stunning!,2024-02-19 09:30:00,6257,57
+472,Instagram,@adventure_k,Got accepted into my dream university! All those late nights studying were worth it!,2024-02-19 12:00:00,5724,1207
+473,Instagram,@daily_moods,Monday again. Another week another set of meetings and deadlines to deal with.,2024-02-19 14:30:00,6242,1287
+474,Instagram,@street_style,This cricket match was absolutely phenomenal. The energy and atmosphere were unreal!,2024-02-19 17:00:00,952,197
+475,Instagram,@fitness_raj,The restaurant was fine. Service was average and food was neither great nor bad.,2024-02-19 19:30:00,7334,1948
+476,Instagram,@home_decor_r,Ordered food an hour ago and it still has not arrived. Completely cold when it finally came.,2024-02-19 22:00:00,3286,208
+477,Instagram,@pet_lovers,So frustrated with these wireless earbuds right now. Constant crashes terrible performance and no support.,2024-02-20 00:30:00,5945,1022
+478,Instagram,@yoga_daily,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-02-20 03:00:00,890,62
+479,Instagram,@foodie_kai,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-02-20 05:30:00,7968,733
+480,Instagram,@chef_arjun,My team won the championship today! Years of training finally paid off. So proud!,2024-02-20 08:00:00,5428,1019
+481,Instagram,@home_decor_r,This pasta recipe turned out absolutely perfect. The whole family loved it!,2024-02-20 10:30:00,3630,941
+482,Instagram,@street_style,This MacBook Pro is complete garbage. Stopped working after just two days. Total waste of money!,2024-02-20 13:00:00,6263,448
+483,Instagram,@gym_life,Adopted a puppy today and my heart has never been this full of joy and love,2024-02-20 15:30:00,7958,1547
+484,Instagram,@adventure_k,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-02-20 18:00:00,6636,110
+485,Instagram,@student_life,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-02-20 20:30:00,1927,319
+486,Instagram,@yoga_daily,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-02-20 23:00:00,5393,1768
+487,Instagram,@beauty_glam,This new software update completely ruined everything that was working perfectly before.,2024-02-21 01:30:00,4695,200
+488,Instagram,@pet_lovers,My landlord is refusing to fix the heating in winter. This is completely unacceptable behavior.,2024-02-21 04:00:00,1657,508
+489,Instagram,@gym_life,So proud of finishing the project on time! Hard work really does pay off in the end,2024-02-21 06:30:00,781,172
+490,Instagram,@coffee_addict,New software update installed. Interface looks different. Will take some getting used to.,2024-02-21 09:00:00,2571,204
+491,Instagram,@yoga_daily,The meeting ran a bit long but we covered everything on the agenda at least.,2024-02-21 11:30:00,2199,653
+492,Instagram,@pet_lovers,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-02-21 14:00:00,3365,652
+493,Instagram,@daily_moods,So proud of running my first half-marathon! Hard work really does pay off in the end,2024-02-21 16:30:00,1233,98
+494,Instagram,@lifestyle_n,Just had the most incredible experience at that rooftop bar! Absolutely loved every moment of it,2024-02-21 19:00:00,2239,139
+495,Instagram,@art_studio,Just finished watching the anime everyone recommended. It was okay I guess. Nothing special but not terrible either.,2024-02-21 21:30:00,2446,65
+496,Instagram,@fitness_raj,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-02-22 00:00:00,1955,614
+497,Instagram,@naturelover,Read through the new policy update. Some changes seem okay others not so much.,2024-02-22 02:30:00,7950,1124
+498,Instagram,@street_style,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-02-22 05:00:00,5597,504
+499,Instagram,@fashionista_z,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-02-22 07:30:00,4532,787
+500,Instagram,@fitness_raj,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-02-22 10:00:00,7675,964
+501,Instagram,@street_style,The restaurant was fine. Service was average and food was neither great nor bad.,2024-02-22 12:30:00,6042,845
+502,Instagram,@yoga_daily,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-02-22 15:00:00,5700,56
+503,Instagram,@daily_moods,Cannot believe how amazing the new gaming console is. Best purchase I have made this year hands down!,2024-02-22 17:30:00,1297,127
+504,Instagram,@chef_arjun,Got accepted into my dream university! All those late nights studying were worth it!,2024-02-22 20:00:00,1632,86
+505,Instagram,@fitness_raj,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-02-22 22:30:00,7985,1894
+506,Instagram,@adventure_k,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-02-23 01:00:00,1398,290
+507,Instagram,@chef_arjun,This startup pitch event was absolutely phenomenal. The energy and atmosphere were unreal!,2024-02-23 03:30:00,6119,1012
+508,Instagram,@techgirl_p,My team won the championship today! Years of training finally paid off. So proud!,2024-02-23 06:00:00,240,37
+509,Instagram,@techgirl_p,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-02-23 08:30:00,7143,1324
+510,Instagram,@student_life,Got scammed online today. Lost a significant amount of money. Feeling so stupid and angry.,2024-02-23 11:00:00,3862,725
+511,Instagram,@gym_life,Just completed my first marathon! Never thought I could do it but here we are!,2024-02-23 13:30:00,1474,133
+512,Instagram,@daily_moods,Huge shoutout to my professor for being so incredibly helpful and kind. You made my day!,2024-02-23 16:00:00,2571,45
+513,Instagram,@lifestyle_n,New the new smartwatch arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-02-23 18:30:00,2589,754
+514,Instagram,@street_style,This tacos recipe turned out absolutely perfect. The whole family loved it!,2024-02-23 21:00:00,2136,167
+515,Instagram,@daily_moods,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-02-23 23:30:00,6934,606
+516,Instagram,@sunset_views,Read through the new policy update. Some changes seem okay others not so much.,2024-02-24 02:00:00,6287,739
+517,Instagram,@adventure_k,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-02-24 04:30:00,4841,217
+518,Instagram,@travel_vibes,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-02-24 07:00:00,5380,1274
+519,Instagram,@fitness_raj,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-02-24 09:30:00,3272,522
+520,Instagram,@techgirl_p,So frustrated with this coffee maker right now. Constant crashes terrible performance and no support.,2024-02-24 12:00:00,992,152
+521,Instagram,@home_decor_r,My landlord is refusing to fix the heating in winter. This is completely unacceptable behavior.,2024-02-24 14:30:00,3907,549
+522,Instagram,@travel_vibes,Received my package completely destroyed. The packaging was absolutely appalling.,2024-02-24 17:00:00,4210,699
+523,Instagram,@chef_arjun,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-02-24 19:30:00,1222,65
+524,Instagram,@pet_lovers,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-02-24 22:00:00,779,237
+525,Instagram,@lifestyle_n,Adopted a puppy today and my heart has never been this full of joy and love,2024-02-25 00:30:00,6910,1609
+526,Instagram,@lifestyle_n,This this coffee maker is complete garbage. Stopped working after just two days. Total waste of money!,2024-02-25 03:00:00,1734,189
+527,Instagram,@street_style,So proud of completing my certification! Hard work really does pay off in the end,2024-02-25 05:30:00,3774,829
+528,Instagram,@naturelover,Just completed my first marathon! Never thought I could do it but here we are!,2024-02-25 08:00:00,921,8
+529,Instagram,@yoga_daily,The traffic today was absolutely horrific. Took me 3 hours to travel just 15 kilometers.,2024-02-25 10:30:00,1218,242
+530,Instagram,@gym_life,This new software update completely ruined everything that was working perfectly before.,2024-02-25 13:00:00,1992,206
+531,Instagram,@travel_vibes,The restaurant was fine. Service was average and food was neither great nor bad.,2024-02-25 15:30:00,3998,818
+532,Instagram,@pet_lovers,Read the book everyone recommended. It was fine. Decent writing but the story was predictable.,2024-02-25 18:00:00,7288,1938
+533,Instagram,@adventure_k,Read through the new policy update. Some changes seem okay others not so much.,2024-02-25 20:30:00,3594,475
+534,Instagram,@lifestyle_n,Got accepted into my dream university! All those late nights studying were worth it!,2024-02-25 23:00:00,5099,424
+535,Instagram,@street_style,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-02-26 01:30:00,2492,240
+536,Instagram,@beauty_glam,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-02-26 04:00:00,3532,233
+537,Instagram,@techgirl_p,Just completed my first marathon! Never thought I could do it but here we are!,2024-02-26 06:30:00,6996,2111
+538,Instagram,@lifestyle_n,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-02-26 09:00:00,5165,241
+539,Instagram,@beauty_glam,The traffic today was absolutely horrific. Took me 3 hours to travel just 15 kilometers.,2024-02-26 11:30:00,6715,564
+540,Instagram,@fitness_raj,This food festival was absolutely phenomenal. The energy and atmosphere were unreal!,2024-02-26 14:00:00,2184,381
+541,Instagram,@yoga_daily,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-02-26 16:30:00,7802,2114
+542,Instagram,@home_decor_r,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-02-26 19:00:00,6332,673
+543,Instagram,@coffee_addict,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-02-26 21:30:00,7161,1246
+544,Instagram,@home_decor_r,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-02-27 00:00:00,6357,808
+545,Instagram,@sunset_views,The restaurant was fine. Service was average and food was neither great nor bad.,2024-02-27 02:30:00,4525,639
+546,Instagram,@pet_lovers,Got accepted into my dream university! All those late nights studying were worth it!,2024-02-27 05:00:00,4144,226
+547,Instagram,@yoga_daily,Cannot believe how amazing the new smartwatch is. Best purchase I have made this year hands down!,2024-02-27 07:30:00,2781,241
+548,Instagram,@beauty_glam,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-02-27 10:00:00,4235,1192
+549,Instagram,@pet_lovers,The traffic today was absolutely horrific. Took me 3 hours to travel just 15 kilometers.,2024-02-27 12:30:00,7283,532
+550,Instagram,@pet_lovers,Read the book everyone recommended. It was fine. Decent writing but the story was predictable.,2024-02-27 15:00:00,3610,1002
+551,Instagram,@street_style,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-02-27 17:30:00,272,20
+552,Instagram,@daily_moods,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-02-27 20:00:00,3048,312
+553,Instagram,@chef_arjun,Ordered food an hour ago and it still has not arrived. Completely cold when it finally came.,2024-02-27 22:30:00,1771,187
+554,Instagram,@beauty_glam,This biryani recipe turned out absolutely perfect. The whole family loved it!,2024-02-28 01:00:00,6405,1545
+555,Instagram,@home_decor_r,This chocolate cake recipe turned out absolutely perfect. The whole family loved it!,2024-02-28 03:30:00,1912,404
+556,Instagram,@naturelover,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-02-28 06:00:00,7829,2534
+557,Instagram,@naturelover,The new management has completely destroyed the company culture. Everyone is miserable now.,2024-02-28 08:30:00,2014,593
+558,Instagram,@pet_lovers,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-02-28 11:00:00,202,67
+559,Instagram,@lifestyle_n,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-02-28 13:30:00,2098,91
+560,Instagram,@chef_arjun,New this coffee maker arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-02-28 16:00:00,3199,202
+561,Instagram,@art_studio,Internet has been down for 6 hours and customer support keeps putting me on hold. Unacceptable!,2024-02-28 18:30:00,4805,484
+562,Instagram,@foodie_kai,This pasta recipe turned out absolutely perfect. The whole family loved it!,2024-02-28 21:00:00,3343,478
+563,Instagram,@sunset_views,Absolutely terrible experience at the new shopping mall. Never going back there again. Avoid at all costs!,2024-02-28 23:30:00,1671,145
+564,Instagram,@foodie_kai,Ordered food an hour ago and it still has not arrived. Completely cold when it finally came.,2024-02-29 02:00:00,497,123
+565,Instagram,@coffee_addict,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-02-29 04:30:00,4617,143
+566,Instagram,@beauty_glam,The restaurant was fine. Service was average and food was neither great nor bad.,2024-02-29 07:00:00,5208,535
+567,Instagram,@foodie_kai,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-02-29 09:30:00,4992,975
+568,Instagram,@yoga_daily,Just had the most incredible experience at that new Italian restaurant! Absolutely loved every moment of it,2024-02-29 12:00:00,5512,252
+569,Instagram,@yoga_daily,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-02-29 14:30:00,81,7
+570,Instagram,@adventure_k,Just had the most incredible experience at the new shopping mall! Absolutely loved every moment of it,2024-02-29 17:00:00,306,35
+571,Instagram,@gym_life,This noodle soup recipe turned out absolutely perfect. The whole family loved it!,2024-02-29 19:30:00,5511,1397
+572,Instagram,@foodie_kai,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-02-29 22:00:00,7949,2182
+573,Instagram,@daily_moods,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-03-01 00:30:00,5576,1061
+574,Instagram,@foodie_kai,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-03-01 03:00:00,3215,398
+575,Instagram,@chef_arjun,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-03-01 05:30:00,519,160
+576,Instagram,@street_style,Cannot believe how badly this telecom provider has gone downhill. Used to love them but not anymore.,2024-03-01 08:00:00,1957,348
+577,Instagram,@travel_vibes,Cannot believe how amazing this budget laptop is. Best purchase I have made this year hands down!,2024-03-01 10:30:00,3096,641
+578,Instagram,@travel_vibes,So proud of completing my certification! Hard work really does pay off in the end,2024-03-01 13:00:00,4586,106
+579,Instagram,@yoga_daily,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-03-01 15:30:00,6518,1753
+580,Instagram,@foodie_kai,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-03-01 18:00:00,4880,1460
+581,Instagram,@techgirl_p,So proud of finishing the project on time! Hard work really does pay off in the end,2024-03-01 20:30:00,6534,180
+582,Instagram,@chef_arjun,This the new smartwatch is complete garbage. Stopped working after just two days. Total waste of money!,2024-03-01 23:00:00,4947,702
+583,Instagram,@naturelover,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-03-02 01:30:00,1646,206
+584,Instagram,@beauty_glam,The weather today is pretty average. Not great not terrible. Just a regular day.,2024-03-02 04:00:00,1334,53
+585,Instagram,@street_style,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-03-02 06:30:00,6022,1573
+586,Instagram,@foodie_kai,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-03-02 09:00:00,4549,235
+587,Instagram,@lifestyle_n,Finally visited the new shopping mall and it exceeded every single expectation I had. Stunning!,2024-03-02 11:30:00,1798,268
+588,Instagram,@techgirl_p,Huge shoutout to the customer support agent for being so incredibly helpful and kind. You made my day!,2024-03-02 14:00:00,3109,227
+589,Instagram,@daily_moods,Internet has been down for 6 hours and customer support keeps putting me on hold. Unacceptable!,2024-03-02 16:30:00,1188,66
+590,Instagram,@coffee_addict,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-03-02 19:00:00,2414,152
+591,Instagram,@street_style,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-03-02 21:30:00,6484,265
+592,Instagram,@street_style,Monday again. Another week another set of meetings and deadlines to deal with.,2024-03-03 00:00:00,2203,595
+593,Instagram,@pet_lovers,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-03-03 02:30:00,7285,1544
+594,Instagram,@student_life,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-03-03 05:00:00,4788,84
+595,Instagram,@fashionista_z,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-03-03 07:30:00,3137,50
+596,Instagram,@student_life,Monday again. Another week another set of meetings and deadlines to deal with.,2024-03-03 10:00:00,811,60
+597,Instagram,@naturelover,So proud of getting a perfect score! Hard work really does pay off in the end,2024-03-03 12:30:00,5785,1237
+598,Instagram,@sunset_views,Finally visited the new shopping mall and it exceeded every single expectation I had. Stunning!,2024-03-03 15:00:00,6240,611
+599,Instagram,@fitness_raj,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-03-03 17:30:00,2569,192
+600,Instagram,@chef_arjun,This new software update completely ruined everything that was working perfectly before.,2024-03-03 20:00:00,7732,39
+601,Facebook,@education.hub,This noodle soup recipe turned out absolutely perfect. The whole family loved it!,2024-03-03 22:30:00,6438,131
+602,Facebook,@family.moments,Finally visited the mountain trail and it exceeded every single expectation I had. Stunning!,2024-03-04 01:00:00,894,168
+603,Facebook,@john.smith,Received my package completely destroyed. The packaging was absolutely appalling.,2024-03-04 03:30:00,1534,203
+604,Facebook,@cooking.tips,The weather today is pretty average. Not great not terrible. Just a regular day.,2024-03-04 06:00:00,4252,22
+605,Facebook,@travel.group,Huge shoutout to the customer support agent for being so incredibly helpful and kind. You made my day!,2024-03-04 08:30:00,7829,845
+606,Facebook,@review.hub,Finally visited that rooftop bar and it exceeded every single expectation I had. Stunning!,2024-03-04 11:00:00,1657,7
+607,Facebook,@education.hub,Third time my order arrived damaged. This company clearly does not care about its customers.,2024-03-04 13:30:00,325,94
+608,Facebook,@tech.updates,Worst customer service I have ever experienced in my life. Completely ignored and disrespected.,2024-03-04 16:00:00,7377,1769
+609,Facebook,@community.page,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-03-04 18:30:00,5723,1487
+610,Facebook,@tech.updates,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-03-04 21:00:00,2075,212
+611,Facebook,@travel.group,Got accepted into my dream university! All those late nights studying were worth it!,2024-03-04 23:30:00,314,1
+612,Facebook,@career.advice,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-03-05 02:00:00,1153,241
+613,Facebook,@community.page,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-03-05 04:30:00,5505,1563
+614,Facebook,@priya.patel,Just finished watching the new web show. It was okay I guess. Nothing special but not terrible either.,2024-03-05 07:00:00,6857,2141
+615,Facebook,@parent.life,Read through the new policy update. Some changes seem okay others not so much.,2024-03-05 09:30:00,3074,488
+616,Facebook,@ramesh.kumar,The traffic today was absolutely horrific. Took me 3 hours to travel just 15 kilometers.,2024-03-05 12:00:00,6533,687
+617,Facebook,@health.tips,So frustrated with this coffee maker right now. Constant crashes terrible performance and no support.,2024-03-05 14:30:00,994,118
+618,Facebook,@sports.fans,Just finished that thriller and it is genuinely one of the best things I have ever read,2024-03-05 17:00:00,3763,450
+619,Facebook,@business.talk,So proud of running my first half-marathon! Hard work really does pay off in the end,2024-03-05 19:30:00,6487,702
+620,Facebook,@local.events,New software update installed. Interface looks different. Will take some getting used to.,2024-03-05 22:00:00,149,38
+621,Facebook,@health.tips,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-03-06 00:30:00,6208,997
+622,Facebook,@sports.fans,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-03-06 03:00:00,5264,77
+623,Facebook,@parent.life,Attended the workshop today. Learned a few things but mostly stuff I already knew.,2024-03-06 05:30:00,6943,1356
+624,Facebook,@career.advice,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-03-06 08:00:00,5164,12
+625,Facebook,@education.hub,So proud of completing my certification! Hard work really does pay off in the end,2024-03-06 10:30:00,4501,418
+626,Facebook,@culture.page,This new this coffee maker update is exactly what we needed. Such a massive improvement!,2024-03-06 13:00:00,2044,310
+627,Facebook,@family.moments,The restaurant was fine. Service was average and food was neither great nor bad.,2024-03-06 15:30:00,3620,865
+628,Facebook,@business.talk,New phone update came through. Changed a few things. Some better some worse overall.,2024-03-06 18:00:00,5957,359
+629,Facebook,@anjali.mehta,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-03-06 20:30:00,5861,961
+630,Facebook,@travel.group,Just finished the biography and it is genuinely one of the best things I have ever read,2024-03-06 23:00:00,7955,1528
+631,Facebook,@health.tips,My team won the championship today! Years of training finally paid off. So proud!,2024-03-07 01:30:00,7845,1045
+632,Facebook,@cooking.tips,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-03-07 04:00:00,5173,1447
+633,Facebook,@community.page,Absolutely terrible experience at the mountain trail. Never going back there again. Avoid at all costs!,2024-03-07 06:30:00,5283,1457
+634,Facebook,@education.hub,Got scammed online today. Lost a significant amount of money. Feeling so stupid and angry.,2024-03-07 09:00:00,2527,751
+635,Facebook,@tech.updates,This new software update completely ruined everything that was working perfectly before.,2024-03-07 11:30:00,6692,2014
+636,Facebook,@tech.updates,Just finished watching that documentary. It was okay I guess. Nothing special but not terrible either.,2024-03-07 14:00:00,5772,275
+637,Facebook,@tech.updates,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-03-07 16:30:00,6633,785
+638,Facebook,@review.hub,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-03-07 19:00:00,531,87
+639,Facebook,@ramesh.kumar,Just finished watching that Netflix series. It was okay I guess. Nothing special but not terrible either.,2024-03-07 21:30:00,1734,534
+640,Facebook,@local.events,Just had the most incredible experience at the art gallery! Absolutely loved every moment of it,2024-03-08 00:00:00,2587,836
+641,Facebook,@travel.group,This new this coffee maker update is exactly what we needed. Such a massive improvement!,2024-03-08 02:30:00,5946,1710
+642,Facebook,@john.smith,New Samsung Galaxy S24 arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-03-08 05:00:00,5232,1664
+643,Facebook,@cooking.tips,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-03-08 07:30:00,3510,975
+644,Facebook,@community.page,Read through the new policy update. Some changes seem okay others not so much.,2024-03-08 10:00:00,2473,689
+645,Facebook,@tech.updates,The new management has completely destroyed the company culture. Everyone is miserable now.,2024-03-08 12:30:00,6175,366
+646,Facebook,@ramesh.kumar,This cricket match was absolutely phenomenal. The energy and atmosphere were unreal!,2024-03-08 15:00:00,5456,278
+647,Facebook,@travel.group,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-03-08 17:30:00,5361,1315
+648,Facebook,@local.events,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-03-08 20:00:00,6071,1212
+649,Facebook,@education.hub,Just finished that self-help book and it is genuinely one of the best things I have ever read,2024-03-08 22:30:00,4392,388
+650,Facebook,@john.smith,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-03-09 01:00:00,4414,943
+651,Facebook,@culture.page,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-03-09 03:30:00,2627,316
+652,Facebook,@anjali.mehta,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-03-09 06:00:00,6787,862
+653,Facebook,@health.tips,This new MacBook Pro update is exactly what we needed. Such a massive improvement!,2024-03-09 08:30:00,5558,969
+654,Facebook,@local.events,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-03-09 11:00:00,6167,221
+655,Facebook,@sports.fans,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-03-09 13:30:00,6028,1333
+656,Facebook,@family.moments,Just had the most incredible experience at the beach resort! Absolutely loved every moment of it,2024-03-09 16:00:00,1476,483
+657,Facebook,@travel.group,Cannot believe how amazing these wireless earbuds is. Best purchase I have made this year hands down!,2024-03-09 18:30:00,4007,619
+658,Facebook,@ramesh.kumar,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-03-09 21:00:00,960,42
+659,Facebook,@health.tips,This music festival was absolutely phenomenal. The energy and atmosphere were unreal!,2024-03-09 23:30:00,2449,585
+660,Facebook,@pets.corner,New these wireless earbuds arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-03-10 02:00:00,6862,2207
+661,Facebook,@priya.patel,Cannot believe how badly this telecom provider has gone downhill. Used to love them but not anymore.,2024-03-10 04:30:00,1060,294
+662,Facebook,@health.tips,Just finished that thriller and it is genuinely one of the best things I have ever read,2024-03-10 07:00:00,7748,0
+663,Facebook,@culture.page,Attended the workshop today. Learned a few things but mostly stuff I already knew.,2024-03-10 09:30:00,4414,1045
+664,Facebook,@culture.page,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-03-10 12:00:00,4527,442
+665,Facebook,@tech.updates,Received my package completely destroyed. The packaging was absolutely appalling.,2024-03-10 14:30:00,3282,934
+666,Facebook,@health.tips,So proud of getting a perfect score! Hard work really does pay off in the end,2024-03-10 17:00:00,6735,628
+667,Facebook,@community.page,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-03-10 19:30:00,2703,655
+668,Facebook,@parent.life,Worst customer service I have ever experienced in my life. Completely ignored and disrespected.,2024-03-10 22:00:00,3106,215
+669,Facebook,@priya.patel,This startup pitch event was absolutely phenomenal. The energy and atmosphere were unreal!,2024-03-11 00:30:00,1403,162
+670,Facebook,@anjali.mehta,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-03-11 03:00:00,1173,193
+671,Facebook,@cooking.tips,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-03-11 05:30:00,6546,1919
+672,Facebook,@community.page,Got accepted into my dream university! All those late nights studying were worth it!,2024-03-11 08:00:00,5204,162
+673,Facebook,@pets.corner,Worst customer service I have ever experienced in my life. Completely ignored and disrespected.,2024-03-11 10:30:00,7643,558
+674,Facebook,@parent.life,Read the book everyone recommended. It was fine. Decent writing but the story was predictable.,2024-03-11 13:00:00,6058,1354
+675,Facebook,@priya.patel,New phone update came through. Changed a few things. Some better some worse overall.,2024-03-11 15:30:00,3467,1014
+676,Facebook,@family.moments,My team won the championship today! Years of training finally paid off. So proud!,2024-03-11 18:00:00,2409,271
+677,Facebook,@cooking.tips,Just finished the biography and it is genuinely one of the best things I have ever read,2024-03-11 20:30:00,53,14
+678,Facebook,@ramesh.kumar,Internet has been down for 6 hours and customer support keeps putting me on hold. Unacceptable!,2024-03-11 23:00:00,3534,1007
+679,Facebook,@family.moments,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-03-12 01:30:00,3243,766
+680,Facebook,@cooking.tips,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-03-12 04:00:00,6125,888
+681,Facebook,@local.events,Absolutely terrible experience at the beach resort. Never going back there again. Avoid at all costs!,2024-03-12 06:30:00,7385,129
+682,Facebook,@travel.group,Huge shoutout to my team lead for being so incredibly helpful and kind. You made my day!,2024-03-12 09:00:00,4116,796
+683,Facebook,@local.events,Third time my order arrived damaged. This company clearly does not care about its customers.,2024-03-12 11:30:00,3524,16
+684,Facebook,@parent.life,This new software update completely ruined everything that was working perfectly before.,2024-03-12 14:00:00,2308,117
+685,Facebook,@parent.life,New software update installed. Interface looks different. Will take some getting used to.,2024-03-12 16:30:00,991,67
+686,Facebook,@travel.group,Got scammed online today. Lost a significant amount of money. Feeling so stupid and angry.,2024-03-12 19:00:00,3341,1075
+687,Facebook,@ramesh.kumar,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-03-12 21:30:00,2210,372
+688,Facebook,@local.events,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-03-13 00:00:00,1741,292
+689,Facebook,@ramesh.kumar,This sushi recipe turned out absolutely perfect. The whole family loved it!,2024-03-13 02:30:00,798,6
+690,Facebook,@sports.fans,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-03-13 05:00:00,4791,786
+691,Facebook,@community.page,So proud of running my first half-marathon! Hard work really does pay off in the end,2024-03-13 07:30:00,7720,2238
+692,Facebook,@health.tips,Just completed my first marathon! Never thought I could do it but here we are!,2024-03-13 10:00:00,4514,1457
+693,Facebook,@tech.updates,New software update installed. Interface looks different. Will take some getting used to.,2024-03-13 12:30:00,4913,561
+694,Facebook,@pets.corner,New iPhone 16 arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-03-13 15:00:00,3151,799
+695,Facebook,@pets.corner,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-03-13 17:30:00,5802,1475
+696,Facebook,@priya.patel,Got accepted into my dream university! All those late nights studying were worth it!,2024-03-13 20:00:00,4375,487
+697,Facebook,@john.smith,The restaurant was fine. Service was average and food was neither great nor bad.,2024-03-13 22:30:00,5318,711
+698,Facebook,@john.smith,Just completed my first marathon! Never thought I could do it but here we are!,2024-03-14 01:00:00,6754,1456
+699,Facebook,@culture.page,Failed my exam after weeks of preparation. Feeling completely devastated and hopeless right now.,2024-03-14 03:30:00,4517,422
+700,Facebook,@health.tips,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-03-14 06:00:00,3024,151
+701,Facebook,@news.today,This chocolate cake recipe turned out absolutely perfect. The whole family loved it!,2024-03-14 08:30:00,177,19
+702,Facebook,@travel.group,Monday again. Another week another set of meetings and deadlines to deal with.,2024-03-14 11:00:00,826,269
+703,Facebook,@parent.life,Third time my order arrived damaged. This company clearly does not care about its customers.,2024-03-14 13:30:00,6313,342
+704,Facebook,@family.moments,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-03-14 16:00:00,6228,1819
+705,Facebook,@priya.patel,Huge shoutout to my colleague for being so incredibly helpful and kind. You made my day!,2024-03-14 18:30:00,847,278
+706,Facebook,@anjali.mehta,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-03-14 21:00:00,2899,671
+707,Facebook,@cooking.tips,The restaurant was fine. Service was average and food was neither great nor bad.,2024-03-14 23:30:00,629,157
+708,Facebook,@culture.page,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-03-15 02:00:00,1490,347
+709,Facebook,@community.page,The meeting ran a bit long but we covered everything on the agenda at least.,2024-03-15 04:30:00,6467,8
+710,Facebook,@review.hub,New these wireless earbuds arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-03-15 07:00:00,1190,46
+711,Facebook,@culture.page,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-03-15 09:30:00,6505,1365
+712,Facebook,@community.page,Finally visited that rooftop bar and it exceeded every single expectation I had. Stunning!,2024-03-15 12:00:00,4764,1464
+713,Facebook,@anjali.mehta,This new software update completely ruined everything that was working perfectly before.,2024-03-15 14:30:00,7549,451
+714,Facebook,@parent.life,Cannot believe how amazing these wireless earbuds is. Best purchase I have made this year hands down!,2024-03-15 17:00:00,462,35
+715,Facebook,@culture.page,Cannot believe how badly that streaming platform has gone downhill. Used to love them but not anymore.,2024-03-15 19:30:00,7135,647
+716,Facebook,@tech.updates,Just finished watching the new web show. It was okay I guess. Nothing special but not terrible either.,2024-03-15 22:00:00,3853,286
+717,Facebook,@priya.patel,Got accepted into my dream university! All those late nights studying were worth it!,2024-03-16 00:30:00,7223,131
+718,Facebook,@health.tips,Just completed my first marathon! Never thought I could do it but here we are!,2024-03-16 03:00:00,7635,642
+719,Facebook,@tech.updates,New software update installed. Interface looks different. Will take some getting used to.,2024-03-16 05:30:00,6742,316
+720,Facebook,@review.hub,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-03-16 08:00:00,893,53
+721,Facebook,@culture.page,So proud of completing my certification! Hard work really does pay off in the end,2024-03-16 10:30:00,94,19
+722,Facebook,@priya.patel,The traffic today was absolutely horrific. Took me 3 hours to travel just 15 kilometers.,2024-03-16 13:00:00,2582,95
+723,Facebook,@anjali.mehta,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-03-16 15:30:00,5761,1381
+724,Facebook,@news.today,Cannot believe how badly this telecom provider has gone downhill. Used to love them but not anymore.,2024-03-16 18:00:00,1325,77
+725,Facebook,@local.events,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-03-16 20:30:00,2387,368
+726,Facebook,@ramesh.kumar,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-03-16 23:00:00,6597,61
+727,Facebook,@community.page,New Samsung Galaxy S24 arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-03-17 01:30:00,2299,590
+728,Facebook,@anjali.mehta,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-03-17 04:00:00,7704,507
+729,Facebook,@pets.corner,Adopted a puppy today and my heart has never been this full of joy and love,2024-03-17 06:30:00,6925,1284
+730,Facebook,@anjali.mehta,Ordered food an hour ago and it still has not arrived. Completely cold when it finally came.,2024-03-17 09:00:00,6993,431
+731,Facebook,@career.advice,The restaurant was fine. Service was average and food was neither great nor bad.,2024-03-17 11:30:00,3842,1095
+732,Facebook,@community.page,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-03-17 14:00:00,2604,350
+733,Facebook,@anjali.mehta,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-03-17 16:30:00,5249,437
+734,Facebook,@john.smith,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-03-17 19:00:00,7809,1732
+735,Facebook,@career.advice,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-03-17 21:30:00,7142,1719
+736,Facebook,@sports.fans,Got accepted into my dream university! All those late nights studying were worth it!,2024-03-18 00:00:00,2866,429
+737,Facebook,@education.hub,My landlord is refusing to fix the heating in winter. This is completely unacceptable behavior.,2024-03-18 02:30:00,5055,296
+738,Facebook,@review.hub,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-03-18 05:00:00,4270,7
+739,Facebook,@sports.fans,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-03-18 07:30:00,2856,214
+740,Facebook,@health.tips,Just finished that self-help book and it is genuinely one of the best things I have ever read,2024-03-18 10:00:00,3366,720
+741,Facebook,@business.talk,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-03-18 12:30:00,3575,781
+742,Facebook,@family.moments,The restaurant was fine. Service was average and food was neither great nor bad.,2024-03-18 15:00:00,6148,408
+743,Facebook,@family.moments,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-03-18 17:30:00,7791,509
+744,Facebook,@news.today,Ordered food an hour ago and it still has not arrived. Completely cold when it finally came.,2024-03-18 20:00:00,6873,1698
+745,Facebook,@tech.updates,Failed my exam after weeks of preparation. Feeling completely devastated and hopeless right now.,2024-03-18 22:30:00,7862,2343
+746,Facebook,@tech.updates,The meeting ran a bit long but we covered everything on the agenda at least.,2024-03-19 01:00:00,3307,651
+747,Facebook,@business.talk,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-03-19 03:30:00,1307,165
+748,Facebook,@education.hub,Just finished the sci-fi novel everyone recommended and it is genuinely one of the best things I have ever read,2024-03-19 06:00:00,3137,51
+749,Facebook,@review.hub,New these wireless earbuds arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-03-19 08:30:00,5405,105
+750,Facebook,@news.today,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-03-19 11:00:00,2151,184
+751,Facebook,@community.page,The weather today is pretty average. Not great not terrible. Just a regular day.,2024-03-19 13:30:00,3990,1281
+752,Facebook,@tech.updates,Worst customer service I have ever experienced in my life. Completely ignored and disrespected.,2024-03-19 16:00:00,5408,1161
+753,Facebook,@ramesh.kumar,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-03-19 18:30:00,1584,30
+754,Facebook,@parent.life,The new management has completely destroyed the company culture. Everyone is miserable now.,2024-03-19 21:00:00,688,186
+755,Facebook,@health.tips,Finally visited the new shopping mall and it exceeded every single expectation I had. Stunning!,2024-03-19 23:30:00,4204,819
+756,Facebook,@family.moments,The movie was alright. Had some good moments but the ending felt a bit rushed overall.,2024-03-20 02:00:00,3555,913
+757,Facebook,@career.advice,The meeting ran a bit long but we covered everything on the agenda at least.,2024-03-20 04:30:00,1375,455
+758,Facebook,@health.tips,This this coffee maker is complete garbage. Stopped working after just two days. Total waste of money!,2024-03-20 07:00:00,6484,761
+759,Facebook,@local.events,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-03-20 09:30:00,5643,22
+760,Facebook,@pets.corner,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-03-20 12:00:00,1786,105
+761,Facebook,@family.moments,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-03-20 14:30:00,4089,95
+762,Facebook,@education.hub,New software update installed. Interface looks different. Will take some getting used to.,2024-03-20 17:00:00,179,18
+763,Facebook,@community.page,Just had the most incredible experience at that new Italian restaurant! Absolutely loved every moment of it,2024-03-20 19:30:00,3854,194
+764,Facebook,@travel.group,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-03-20 22:00:00,2449,713
+765,Facebook,@ramesh.kumar,Tried a new workout routine today. It was okay. Might stick with it for a week and see.,2024-03-21 00:30:00,2649,882
+766,Facebook,@priya.patel,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-03-21 03:00:00,912,24
+767,Facebook,@anjali.mehta,The restaurant was fine. Service was average and food was neither great nor bad.,2024-03-21 05:30:00,2620,151
+768,Facebook,@family.moments,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-03-21 08:00:00,1855,94
+769,Facebook,@sports.fans,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-03-21 10:30:00,112,13
+770,Facebook,@anjali.mehta,Terrible weather ruined our entire outdoor event after months of careful planning.,2024-03-21 13:00:00,6950,2066
+771,Facebook,@community.page,Cannot believe how badly that food delivery app has gone downhill. Used to love them but not anymore.,2024-03-21 15:30:00,2281,433
+772,Facebook,@tech.updates,Huge shoutout to my colleague for being so incredibly helpful and kind. You made my day!,2024-03-21 18:00:00,2190,29
+773,Facebook,@anjali.mehta,This biryani recipe turned out absolutely perfect. The whole family loved it!,2024-03-21 20:30:00,3256,1028
+774,Facebook,@sports.fans,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-03-21 23:00:00,2413,193
+775,Facebook,@ramesh.kumar,My team won the championship today! Years of training finally paid off. So proud!,2024-03-22 01:30:00,440,9
+776,Facebook,@ramesh.kumar,Adopted a puppy today and my heart has never been this full of joy and love,2024-03-22 04:00:00,1806,274
+777,Facebook,@tech.updates,My landlord is refusing to fix the heating in winter. This is completely unacceptable behavior.,2024-03-22 06:30:00,4127,1274
+778,Facebook,@anjali.mehta,This burger recipe turned out absolutely perfect. The whole family loved it!,2024-03-22 09:00:00,7887,52
+779,Facebook,@family.moments,Read the book everyone recommended. It was fine. Decent writing but the story was predictable.,2024-03-22 11:30:00,4782,2
+780,Facebook,@anjali.mehta,This pasta recipe turned out absolutely perfect. The whole family loved it!,2024-03-22 14:00:00,6355,384
+781,Facebook,@cooking.tips,Read through the new policy update. Some changes seem okay others not so much.,2024-03-22 16:30:00,3763,27
+782,Facebook,@parent.life,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-03-22 19:00:00,5406,290
+783,Facebook,@ramesh.kumar,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-03-22 21:30:00,7913,1121
+784,Facebook,@sports.fans,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-03-23 00:00:00,341,74
+785,Facebook,@family.moments,Got accepted into my dream university! All those late nights studying were worth it!,2024-03-23 02:30:00,7600,602
+786,Facebook,@career.advice,Terrible weather ruined our entire outdoor event after months of careful planning.,2024-03-23 05:00:00,340,27
+787,Facebook,@review.hub,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-03-23 07:30:00,1133,179
+788,Facebook,@priya.patel,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-03-23 10:00:00,3881,726
+789,Facebook,@local.events,Failed my exam after weeks of preparation. Feeling completely devastated and hopeless right now.,2024-03-23 12:30:00,6594,570
+790,Facebook,@business.talk,The traffic today was absolutely horrific. Took me 3 hours to travel just 15 kilometers.,2024-03-23 15:00:00,1507,192
+791,Facebook,@career.advice,This new software update completely ruined everything that was working perfectly before.,2024-03-23 17:30:00,3449,840
+792,Facebook,@anjali.mehta,Terrible weather ruined our entire outdoor event after months of careful planning.,2024-03-23 20:00:00,5091,1112
+793,Facebook,@community.page,Adopted a puppy today and my heart has never been this full of joy and love,2024-03-23 22:30:00,453,69
+794,Facebook,@pets.corner,Read through the new policy update. Some changes seem okay others not so much.,2024-03-24 01:00:00,1185,287
+795,Facebook,@community.page,This pizza recipe turned out absolutely perfect. The whole family loved it!,2024-03-24 03:30:00,5,0
+796,Facebook,@priya.patel,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-03-24 06:00:00,7591,498
+797,Facebook,@anjali.mehta,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-03-24 08:30:00,5216,44
+798,Facebook,@education.hub,So frustrated with this budget laptop right now. Constant crashes terrible performance and no support.,2024-03-24 11:00:00,4043,752
+799,Facebook,@career.advice,New software update installed. Interface looks different. Will take some getting used to.,2024-03-24 13:30:00,989,288
+800,Facebook,@review.hub,Got scammed online today. Lost a significant amount of money. Feeling so stupid and angry.,2024-03-24 16:00:00,79,5
+801,YouTube,@movie_critic,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-03-24 18:30:00,2285,674
+802,YouTube,@science_explain,The restaurant was fine. Service was average and food was neither great nor bad.,2024-03-24 21:00:00,4828,1189
+803,YouTube,@language_learn,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-03-24 23:30:00,2656,778
+804,YouTube,@gaming_hero,Failed my exam after weeks of preparation. Feeling completely devastated and hopeless right now.,2024-03-25 02:00:00,6942,298
+805,YouTube,@travel_vlog,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-03-25 04:30:00,2073,502
+806,YouTube,@fitness_guru,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-03-25 07:00:00,1672,34
+807,YouTube,@art_tutorials,Third time my order arrived damaged. This company clearly does not care about its customers.,2024-03-25 09:30:00,6784,1940
+808,YouTube,@movie_critic,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-03-25 12:00:00,6414,2118
+809,YouTube,@comedy_show,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-03-25 14:30:00,7560,1029
+810,YouTube,@book_review,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-03-25 17:00:00,469,139
+811,YouTube,@gaming_hero,Cannot believe how badly this e-commerce site has gone downhill. Used to love them but not anymore.,2024-03-25 19:30:00,1146,104
+812,YouTube,@beauty_tips,The new management has completely destroyed the company culture. Everyone is miserable now.,2024-03-25 22:00:00,4905,1514
+813,YouTube,@history_now,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-03-26 00:30:00,3539,978
+814,YouTube,@gaming_hero,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-03-26 03:00:00,3176,772
+815,YouTube,@science_explain,New this coffee maker arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-03-26 05:30:00,3581,118
+816,YouTube,@gaming_hero,This new Samsung Galaxy S24 update is exactly what we needed. Such a massive improvement!,2024-03-26 08:00:00,632,14
+817,YouTube,@book_review,New MacBook Pro arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-03-26 10:30:00,3263,980
+818,YouTube,@history_now,Cannot believe how badly this e-commerce site has gone downhill. Used to love them but not anymore.,2024-03-26 13:00:00,6396,1198
+819,YouTube,@travel_vlog,This new these wireless earbuds update is exactly what we needed. Such a massive improvement!,2024-03-26 15:30:00,7476,561
+820,YouTube,@finance_101,New phone update came through. Changed a few things. Some better some worse overall.,2024-03-26 18:00:00,7812,467
+821,YouTube,@product_review,Just had the most incredible experience at that cozy bookstore! Absolutely loved every moment of it,2024-03-26 20:30:00,7005,1572
+822,YouTube,@beauty_tips,Read the book everyone recommended. It was fine. Decent writing but the story was predictable.,2024-03-26 23:00:00,4367,107
+823,YouTube,@book_review,The restaurant was fine. Service was average and food was neither great nor bad.,2024-03-27 01:30:00,3560,875
+824,YouTube,@finance_101,This this coffee maker is complete garbage. Stopped working after just two days. Total waste of money!,2024-03-27 04:00:00,6113,2032
+825,YouTube,@gaming_hero,This new iPhone 16 update is exactly what we needed. Such a massive improvement!,2024-03-27 06:30:00,5047,561
+826,YouTube,@finance_101,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-03-27 09:00:00,3795,35
+827,YouTube,@art_tutorials,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-03-27 11:30:00,7695,325
+828,YouTube,@music_lover,New software update installed. Interface looks different. Will take some getting used to.,2024-03-27 14:00:00,5168,357
+829,YouTube,@sports_recap,Third time my order arrived damaged. This company clearly does not care about its customers.,2024-03-27 16:30:00,5881,466
+830,YouTube,@cooking_sneha,Tried the new burger place downtown. Decent enough but nothing to write home about really.,2024-03-27 19:00:00,4157,908
+831,YouTube,@comedy_show,Cannot believe how badly that streaming platform has gone downhill. Used to love them but not anymore.,2024-03-27 21:30:00,1177,12
+832,YouTube,@gaming_hero,Internet has been down for 6 hours and customer support keeps putting me on hold. Unacceptable!,2024-03-28 00:00:00,2387,153
+833,YouTube,@art_tutorials,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-03-28 02:30:00,272,84
+834,YouTube,@book_review,Finally visited the art gallery and it exceeded every single expectation I had. Stunning!,2024-03-28 05:00:00,3874,1074
+835,YouTube,@history_now,Got accepted into my dream university! All those late nights studying were worth it!,2024-03-28 07:30:00,1896,466
+836,YouTube,@language_learn,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-03-28 10:00:00,4962,471
+837,YouTube,@science_explain,Terrible weather ruined our entire outdoor event after months of careful planning.,2024-03-28 12:30:00,2576,120
+838,YouTube,@fitness_guru,So proud of completing my certification! Hard work really does pay off in the end,2024-03-28 15:00:00,3434,539
+839,YouTube,@news_analysis,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-03-28 17:30:00,7106,2168
+840,YouTube,@science_explain,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-03-28 20:00:00,4850,1246
+841,YouTube,@language_learn,Just completed my first marathon! Never thought I could do it but here we are!,2024-03-28 22:30:00,5740,275
+842,YouTube,@news_analysis,So frustrated with MacBook Pro right now. Constant crashes terrible performance and no support.,2024-03-29 01:00:00,5923,1204
+843,YouTube,@diy_projects,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-03-29 03:30:00,2614,775
+844,YouTube,@comedy_show,Huge shoutout to my professor for being so incredibly helpful and kind. You made my day!,2024-03-29 06:00:00,1361,60
+845,YouTube,@product_review,The restaurant was fine. Service was average and food was neither great nor bad.,2024-03-29 08:30:00,1160,49
+846,YouTube,@comedy_show,Just finished that self-help book and it is genuinely one of the best things I have ever read,2024-03-29 11:00:00,7720,2339
+847,YouTube,@product_review,The meeting ran a bit long but we covered everything on the agenda at least.,2024-03-29 13:30:00,716,221
+848,YouTube,@product_review,Third time my order arrived damaged. This company clearly does not care about its customers.,2024-03-29 16:00:00,3719,1050
+849,YouTube,@music_lover,So proud of completing my certification! Hard work really does pay off in the end,2024-03-29 18:30:00,1126,300
+850,YouTube,@movie_critic,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-03-29 21:00:00,1631,90
+851,YouTube,@beauty_tips,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-03-29 23:30:00,5640,538
+852,YouTube,@language_learn,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-03-30 02:00:00,4020,1290
+853,YouTube,@science_explain,My team won the championship today! Years of training finally paid off. So proud!,2024-03-30 04:30:00,2031,678
+854,YouTube,@language_learn,This new software update completely ruined everything that was working perfectly before.,2024-03-30 07:00:00,4928,843
+855,YouTube,@beauty_tips,This new the new smartwatch update is exactly what we needed. Such a massive improvement!,2024-03-30 09:30:00,3211,905
+856,YouTube,@finance_101,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-03-30 12:00:00,3362,453
+857,YouTube,@cooking_sneha,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-03-30 14:30:00,6398,1365
+858,YouTube,@comedy_show,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-03-30 17:00:00,6569,661
+859,YouTube,@language_learn,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-03-30 19:30:00,351,20
+860,YouTube,@movie_critic,The restaurant was fine. Service was average and food was neither great nor bad.,2024-03-30 22:00:00,6708,1105
+861,YouTube,@travel_vlog,The weather today is pretty average. Not great not terrible. Just a regular day.,2024-03-31 00:30:00,6816,1278
+862,YouTube,@diy_projects,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-03-31 03:00:00,2390,439
+863,YouTube,@language_learn,So proud of running my first half-marathon! Hard work really does pay off in the end,2024-03-31 05:30:00,5965,806
+864,YouTube,@art_tutorials,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-03-31 08:00:00,897,159
+865,YouTube,@diy_projects,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-03-31 10:30:00,5055,969
+866,YouTube,@science_explain,Got accepted into my dream university! All those late nights studying were worth it!,2024-03-31 13:00:00,5649,1157
+867,YouTube,@science_explain,Just completed my first marathon! Never thought I could do it but here we are!,2024-03-31 15:30:00,3784,989
+868,YouTube,@tech_help,Got accepted into my dream university! All those late nights studying were worth it!,2024-03-31 18:00:00,1621,448
+869,YouTube,@techreviewer,This startup pitch event was absolutely phenomenal. The energy and atmosphere were unreal!,2024-03-31 20:30:00,2435,120
+870,YouTube,@book_review,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-03-31 23:00:00,7803,1520
+871,YouTube,@science_explain,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-04-01 01:30:00,3415,367
+872,YouTube,@fitness_guru,Third time my order arrived damaged. This company clearly does not care about its customers.,2024-04-01 04:00:00,505,159
+873,YouTube,@beauty_tips,Terrible weather ruined our entire outdoor event after months of careful planning.,2024-04-01 06:30:00,4792,1493
+874,YouTube,@product_review,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-04-01 09:00:00,1465,134
+875,YouTube,@tech_help,Adopted a puppy today and my heart has never been this full of joy and love,2024-04-01 11:30:00,26,3
+876,YouTube,@movie_critic,The traffic today was absolutely horrific. Took me 3 hours to travel just 15 kilometers.,2024-04-01 14:00:00,4196,900
+877,YouTube,@language_learn,This new software update completely ruined everything that was working perfectly before.,2024-04-01 16:30:00,2913,319
+878,YouTube,@product_review,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-04-01 19:00:00,5619,246
+879,YouTube,@book_review,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-04-01 21:30:00,4590,391
+880,YouTube,@science_explain,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-04-02 00:00:00,775,188
+881,YouTube,@gaming_hero,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-04-02 02:30:00,7960,2343
+882,YouTube,@techreviewer,Just finished watching the anime everyone recommended. It was okay I guess. Nothing special but not terrible either.,2024-04-02 05:00:00,5026,1460
+883,YouTube,@fitness_guru,New MacBook Pro arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-04-02 07:30:00,7032,2228
+884,YouTube,@beauty_tips,New software update installed. Interface looks different. Will take some getting used to.,2024-04-02 10:00:00,6867,251
+885,YouTube,@news_analysis,So proud of getting a perfect score! Hard work really does pay off in the end,2024-04-02 12:30:00,3357,354
+886,YouTube,@fitness_guru,Just had the most incredible experience at the new shopping mall! Absolutely loved every moment of it,2024-04-02 15:00:00,7525,370
+887,YouTube,@cooking_sneha,Monday again. Another week another set of meetings and deadlines to deal with.,2024-04-02 17:30:00,7191,1010
+888,YouTube,@art_tutorials,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-04-02 20:00:00,2589,423
+889,YouTube,@language_learn,Failed my exam after weeks of preparation. Feeling completely devastated and hopeless right now.,2024-04-02 22:30:00,2914,592
+890,YouTube,@history_now,Commute was about the same as usual today. Nothing particularly good or bad happened.,2024-04-03 01:00:00,5297,1660
+891,YouTube,@product_review,The restaurant was fine. Service was average and food was neither great nor bad.,2024-04-03 03:30:00,262,14
+892,YouTube,@science_explain,Got accepted into my dream university! All those late nights studying were worth it!,2024-04-03 06:00:00,5749,214
+893,YouTube,@comedy_show,Ordered food an hour ago and it still has not arrived. Completely cold when it finally came.,2024-04-03 08:30:00,1338,239
+894,YouTube,@music_lover,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-04-03 11:00:00,2074,382
+895,YouTube,@product_review,Just completed my first marathon! Never thought I could do it but here we are!,2024-04-03 13:30:00,7820,2365
+896,YouTube,@science_explain,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-04-03 16:00:00,6464,220
+897,YouTube,@travel_vlog,The weather today is pretty average. Not great not terrible. Just a regular day.,2024-04-03 18:30:00,7238,704
+898,YouTube,@sports_recap,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-04-03 21:00:00,6932,1532
+899,YouTube,@diy_projects,Just had the most incredible experience at that cozy bookstore! Absolutely loved every moment of it,2024-04-03 23:30:00,6815,1898
+900,YouTube,@book_review,Attended the workshop today. Learned a few things but mostly stuff I already knew.,2024-04-04 02:00:00,3231,146
+901,YouTube,@book_review,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-04-04 04:30:00,4913,1539
+902,YouTube,@cooking_sneha,My team won the championship today! Years of training finally paid off. So proud!,2024-04-04 07:00:00,2786,393
+903,YouTube,@tech_help,Huge shoutout to my team lead for being so incredibly helpful and kind. You made my day!,2024-04-04 09:30:00,1344,203
+904,YouTube,@movie_critic,Got accepted into my dream university! All those late nights studying were worth it!,2024-04-04 12:00:00,4712,1038
+905,YouTube,@fitness_guru,My team won the championship today! Years of training finally paid off. So proud!,2024-04-04 14:30:00,4949,1643
+906,YouTube,@movie_critic,Terrible weather ruined our entire outdoor event after months of careful planning.,2024-04-04 17:00:00,61,10
+907,YouTube,@language_learn,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-04-04 19:30:00,3775,751
+908,YouTube,@history_now,Tried the new burger place downtown. Decent enough but nothing to write home about really.,2024-04-04 22:00:00,3421,35
+909,YouTube,@cooking_sneha,Terrible weather ruined our entire outdoor event after months of careful planning.,2024-04-05 00:30:00,4387,193
+910,YouTube,@cooking_sneha,Third time my order arrived damaged. This company clearly does not care about its customers.,2024-04-05 03:00:00,2680,381
+911,YouTube,@tech_help,Cannot believe how amazing Samsung Galaxy S24 is. Best purchase I have made this year hands down!,2024-04-05 05:30:00,7790,1052
+912,YouTube,@art_tutorials,Worst customer service I have ever experienced in my life. Completely ignored and disrespected.,2024-04-05 08:00:00,3879,440
+913,YouTube,@techreviewer,This new software update completely ruined everything that was working perfectly before.,2024-04-05 10:30:00,3340,424
+914,YouTube,@music_lover,Absolutely terrible experience at the art gallery. Never going back there again. Avoid at all costs!,2024-04-05 13:00:00,153,45
+915,YouTube,@sports_recap,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-04-05 15:30:00,107,21
+916,YouTube,@product_review,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-04-05 18:00:00,3305,66
+917,YouTube,@science_explain,Received my package completely destroyed. The packaging was absolutely appalling.,2024-04-05 20:30:00,3703,957
+918,YouTube,@diy_projects,Just had the most incredible experience at the mountain trail! Absolutely loved every moment of it,2024-04-05 23:00:00,7551,2201
+919,YouTube,@tech_help,New Samsung Galaxy S24 arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-04-06 01:30:00,6287,1642
+920,YouTube,@science_explain,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-04-06 04:00:00,4119,1096
+921,YouTube,@diy_projects,The concert last night was absolutely electrifying. Best live performance I have ever seen!,2024-04-06 06:30:00,2367,3
+922,YouTube,@travel_vlog,The conference was informative. Met some people exchanged cards. Standard industry event.,2024-04-06 09:00:00,5218,59
+923,YouTube,@cooking_sneha,Just completed my first marathon! Never thought I could do it but here we are!,2024-04-06 11:30:00,7802,1516
+924,YouTube,@science_explain,Just finished watching that documentary. It was okay I guess. Nothing special but not terrible either.,2024-04-06 14:00:00,1091,150
+925,YouTube,@finance_101,So proud of finishing the project on time! Hard work really does pay off in the end,2024-04-06 16:30:00,4102,1313
+926,YouTube,@diy_projects,Cannot believe how badly that streaming platform has gone downhill. Used to love them but not anymore.,2024-04-06 19:00:00,581,106
+927,YouTube,@diy_projects,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-04-06 21:30:00,5875,1899
+928,YouTube,@beauty_tips,New phone update came through. Changed a few things. Some better some worse overall.,2024-04-07 00:00:00,5383,695
+929,YouTube,@music_lover,New the new gaming console arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-04-07 02:30:00,6206,1064
+930,YouTube,@movie_critic,Internet has been down for 6 hours and customer support keeps putting me on hold. Unacceptable!,2024-04-07 05:00:00,4279,590
+931,YouTube,@comedy_show,Just had the most incredible experience at that rooftop bar! Absolutely loved every moment of it,2024-04-07 07:30:00,1270,380
+932,YouTube,@art_tutorials,New the new smartwatch arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-04-07 10:00:00,103,16
+933,YouTube,@language_learn,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-04-07 12:30:00,5316,346
+934,YouTube,@travel_vlog,Got accepted into my dream university! All those late nights studying were worth it!,2024-04-07 15:00:00,1842,153
+935,YouTube,@history_now,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-04-07 17:30:00,5446,67
+936,YouTube,@art_tutorials,Checked out the new app everyone is talking about. It is functional but nothing revolutionary.,2024-04-07 20:00:00,4288,507
+937,YouTube,@cooking_sneha,Attended the workshop today. Learned a few things but mostly stuff I already knew.,2024-04-07 22:30:00,6092,389
+938,YouTube,@sports_recap,The weather today is pretty average. Not great not terrible. Just a regular day.,2024-04-08 01:00:00,7227,209
+939,YouTube,@sports_recap,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-04-08 03:30:00,4833,440
+940,YouTube,@product_review,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-04-08 06:00:00,6186,1667
+941,YouTube,@sports_recap,Just completed my first marathon! Never thought I could do it but here we are!,2024-04-08 08:30:00,2044,349
+942,YouTube,@tech_help,New software update installed. Interface looks different. Will take some getting used to.,2024-04-08 11:00:00,1469,33
+943,YouTube,@travel_vlog,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-04-08 13:30:00,2521,513
+944,YouTube,@travel_vlog,This movie was one of the worst things I have ever watched. Complete waste of two hours.,2024-04-08 16:00:00,6283,1622
+945,YouTube,@language_learn,Huge shoutout to my team lead for being so incredibly helpful and kind. You made my day!,2024-04-08 18:30:00,7659,1243
+946,YouTube,@beauty_tips,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-04-08 21:00:00,51,12
+947,YouTube,@comedy_show,Cannot believe how amazing these wireless earbuds is. Best purchase I have made this year hands down!,2024-04-08 23:30:00,6825,1529
+948,YouTube,@product_review,Just had the most incredible experience at the beach resort! Absolutely loved every moment of it,2024-04-09 02:00:00,880,38
+949,YouTube,@book_review,Failed my exam after weeks of preparation. Feeling completely devastated and hopeless right now.,2024-04-09 04:30:00,4806,768
+950,YouTube,@language_learn,Cannot believe how amazing iPhone 16 is. Best purchase I have made this year hands down!,2024-04-09 07:00:00,1105,37
+951,YouTube,@science_explain,Internet has been down for 6 hours and customer support keeps putting me on hold. Unacceptable!,2024-04-09 09:30:00,4696,1119
+952,YouTube,@science_explain,Woke up feeling incredibly grateful today. Life is truly beautiful when you appreciate it,2024-04-09 12:00:00,3841,466
+953,YouTube,@beauty_tips,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-04-09 14:30:00,3505,811
+954,YouTube,@comedy_show,My landlord is refusing to fix the heating in winter. This is completely unacceptable behavior.,2024-04-09 17:00:00,4713,683
+955,YouTube,@beauty_tips,So proud of finishing the project on time! Hard work really does pay off in the end,2024-04-09 19:30:00,6704,1134
+956,YouTube,@techreviewer,Terrible weather ruined our entire outdoor event after months of careful planning.,2024-04-09 22:00:00,3293,601
+957,YouTube,@art_tutorials,Just finished watching that documentary. It was okay I guess. Nothing special but not terrible either.,2024-04-10 00:30:00,5530,1572
+958,YouTube,@fitness_guru,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-04-10 03:00:00,219,68
+959,YouTube,@comedy_show,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-04-10 05:30:00,1342,217
+960,YouTube,@finance_101,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-04-10 08:00:00,7111,854
+961,YouTube,@tech_help,My team won the championship today! Years of training finally paid off. So proud!,2024-04-10 10:30:00,4155,1184
+962,YouTube,@travel_vlog,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-04-10 13:00:00,1728,92
+963,YouTube,@diy_projects,Lost all my work because the app crashed without saving. No autosave feature is inexcusable.,2024-04-10 15:30:00,7882,409
+964,YouTube,@techreviewer,Had the best workout session today. Feeling strong motivated and unstoppable!,2024-04-10 18:00:00,7798,1125
+965,YouTube,@language_learn,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-04-10 20:30:00,6249,159
+966,YouTube,@tech_help,Tried the new noodle soup place downtown. Decent enough but nothing to write home about really.,2024-04-10 23:00:00,2995,900
+967,YouTube,@techreviewer,This startup pitch event was absolutely phenomenal. The energy and atmosphere were unreal!,2024-04-11 01:30:00,6421,105
+968,YouTube,@fitness_guru,The sunset tonight was absolutely breathtaking. Nature never fails to amaze me,2024-04-11 04:00:00,127,22
+969,YouTube,@book_review,Failed my exam after weeks of preparation. Feeling completely devastated and hopeless right now.,2024-04-11 06:30:00,6635,2
+970,YouTube,@language_learn,The restaurant was fine. Service was average and food was neither great nor bad.,2024-04-11 09:00:00,6138,803
+971,YouTube,@music_lover,New MacBook Pro arrived today. Setting it up now. Will share thoughts once I have used it more.,2024-04-11 11:30:00,1858,256
+972,YouTube,@art_tutorials,Monday again. Another week another set of meetings and deadlines to deal with.,2024-04-11 14:00:00,6037,1914
+973,YouTube,@diy_projects,Cannot believe how amazing iPhone 16 is. Best purchase I have made this year hands down!,2024-04-11 16:30:00,2647,11
+974,YouTube,@book_review,Ordered from a new restaurant. Food arrived on time and was acceptable. Nothing memorable.,2024-04-11 19:00:00,2157,558
+975,YouTube,@fitness_guru,Reunited with old friends after 5 years. Some bonds truly never break. Feeling so happy!,2024-04-11 21:30:00,5477,1753
+976,YouTube,@finance_101,Finished the quarterly report. Same numbers as last quarter more or less. Nothing surprising.,2024-04-12 00:00:00,6804,455
+977,YouTube,@news_analysis,Read through the new policy update. Some changes seem okay others not so much.,2024-04-12 02:30:00,1601,145
+978,YouTube,@news_analysis,This new this budget laptop update is exactly what we needed. Such a massive improvement!,2024-04-12 05:00:00,1371,191
+979,YouTube,@gaming_hero,Huge shoutout to the delivery person for being so incredibly helpful and kind. You made my day!,2024-04-12 07:30:00,7861,1641
+980,YouTube,@product_review,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-04-12 10:00:00,5807,1138
+981,YouTube,@diy_projects,Just got promoted at work! Years of hard work finally recognized. Feeling on top of the world!,2024-04-12 12:30:00,6446,653
+982,YouTube,@fitness_guru,Just launched my small business and the response has been overwhelmingly positive. Thank you all!,2024-04-12 15:00:00,5952,1514
+983,YouTube,@news_analysis,Adopted a puppy today and my heart has never been this full of joy and love,2024-04-12 17:30:00,845,241
+984,YouTube,@diy_projects,Attended the workshop today. Learned a few things but mostly stuff I already knew.,2024-04-12 20:00:00,6869,1046
+985,YouTube,@music_lover,This cricket match was absolutely phenomenal. The energy and atmosphere were unreal!,2024-04-12 22:30:00,7126,2025
+986,YouTube,@history_now,The meeting ran a bit long but we covered everything on the agenda at least.,2024-04-13 01:00:00,685,3
+987,YouTube,@sports_recap,Cannot believe how badly that streaming platform has gone downhill. Used to love them but not anymore.,2024-04-13 03:30:00,4974,1158
+988,YouTube,@art_tutorials,Got scammed online today. Lost a significant amount of money. Feeling so stupid and angry.,2024-04-13 06:00:00,5515,1452
+989,YouTube,@techreviewer,Checked out the new park that opened nearby. It is nice enough. Good for a short walk.,2024-04-13 08:30:00,1774,580
+990,YouTube,@history_now,Huge shoutout to my colleague for being so incredibly helpful and kind. You made my day!,2024-04-13 11:00:00,2891,254
+991,YouTube,@history_now,My flight got cancelled with zero notice and no compensation offered. Absolutely disgraceful!,2024-04-13 13:30:00,6402,704
+992,YouTube,@science_explain,This tacos recipe turned out absolutely perfect. The whole family loved it!,2024-04-13 16:00:00,5098,1018
+993,YouTube,@tech_help,Huge shoutout to my professor for being so incredibly helpful and kind. You made my day!,2024-04-13 18:30:00,2649,16
+994,YouTube,@cooking_sneha,This comedy show was absolutely phenomenal. The energy and atmosphere were unreal!,2024-04-13 21:00:00,5834,1224
+995,YouTube,@book_review,My team won the championship today! Years of training finally paid off. So proud!,2024-04-13 23:30:00,4675,168
+996,YouTube,@music_lover,Internet has been down for 6 hours and customer support keeps putting me on hold. Unacceptable!,2024-04-14 02:00:00,6830,896
+997,YouTube,@finance_101,This new the new gaming console update is exactly what we needed. Such a massive improvement!,2024-04-14 04:30:00,3400,1128
+998,YouTube,@beauty_tips,Adopted a puppy today and my heart has never been this full of joy and love,2024-04-14 07:00:00,3037,373
+999,YouTube,@sports_recap,Attended the workshop today. Learned a few things but mostly stuff I already knew.,2024-04-14 09:30:00,2573,107
+1000,YouTube,@language_learn,This subscription service charged me twice and refuses to issue a refund. Total scam!,2024-04-14 12:00:00,4846,893

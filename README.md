@@ -1,4 +1,4 @@
-# SentimentScope — Social Media Sentiment Analysis Dashboard
+# Sentiment Analysis Dashboard for Social Media Platform
 
 A full-stack web application that performs real-time sentiment analysis on social media posts using NLP (VADER). Built with **Python/Flask** on the backend and a clean dark-mode dashboard on the frontend.
 
